@@ -1,0 +1,219 @@
+#!/usr/bin/python3
+
+import copy as cp
+import datetime as dt
+import feedparser as fi
+import feedgen.feed as fo
+import pickle
+import regex as re
+import urllib.parse
+
+FEED_DATA_CACHE_FILE = 'cache.pkl'
+
+FEEDS = (
+    'https://feed.podbean.com/geekandsundry/feed.xml',
+    'https://anchor.fm/s/91c7948/podcast/rss',
+)
+
+OUTPUT_URI_BASE = 'https://velebit.github.io/'
+OUTPUT_DIR = 'feeds/'
+OUTPUT_TOP_PATH = '../docs/'
+
+def try_read_cache(cache_file):
+    try:
+        with open(cache_file, 'rb') as cache:
+            feed_data = pickle.load(cache)
+            print(f"Pickled data cache read from '{cache_file}'")
+            return feed_data
+    except:
+        return None
+
+def try_write_cache(cache_file, feed_data):
+    try:
+        with open(cache_file, 'wb') as cache:
+            pickle.dump(feed_data, cache)
+            print(f"Pickled data cache written to '{cache_file}'")
+    except:
+        print(f"Warning: could not write feed data to '{cache_file}'")
+
+def get_and_parse_feeds(feeds):
+    feed_data = [fi.parse(f) for f in feeds]
+    print(f"Feed data downloaded and parsed")
+    return feed_data
+
+def read_feeds(feeds=FEEDS, *, cache_file=FEED_DATA_CACHE_FILE):
+    assert type(feeds) is not str, "feeds should be a container of strings"
+    feed_data = None
+    if cache_file is not None:
+        feed_data = try_read_cache(cache_file)
+    if feed_data is None:
+        feed_data = get_and_parse_feeds(feeds)
+        if feed_data is not None and cache_file is not None:
+            try_write_cache(cache_file, feed_data)
+    return feed_data
+
+def _dump_skeleton(fd):
+    import pprint as pp
+    fd = cp.deepcopy(fd)
+    for d in fd:
+        if len(d['entries']) > 1:
+            d['entries'][:] = d['entries'][0:1]
+    pp.pp(fd, indent=4)
+
+def feed_filename(*, season):
+    return f"{OUTPUT_DIR}CritRole_season_{season}.atom"
+
+def logo_filename(*, season):
+    return f"{OUTPUT_DIR}CritRole_season_{season}.jpg"
+
+def generate_monotonic_datetime(entries):
+    # convert parsed datetime as a date
+    for e in entries:
+        assert e['published_parsed'].tm_gmtoff is None
+        e['published_datetime'] = \
+            dt.datetime(*(e['published_parsed'][0:6]),
+                        tzinfo=dt.timezone.utc)
+        e['monotonic_datetime'] = e['published_datetime']
+    # make monotonic_datetime always increase
+    for i in range(1, len(entries)):
+        if (entries[i]['monotonic_datetime']
+            < entries[i-1]['monotonic_datetime']):
+            entries[i]['monotonic_datetime'] = \
+                entries[i-1]['monotonic_datetime'] + \
+                dt.timedelta(minutes=+1)
+    return entries
+
+def extract_entries(feeds=FEEDS, *, cache_file=FEED_DATA_CACHE_FILE):
+    feed_data = read_feeds(feeds=feeds, cache_file=cache_file)
+    if False:
+        _dump_skeleton(feed_data)
+    cr1_entries = []
+    cr2_entries = []
+    for feed in feed_data:
+        for entry in feed['entries']:
+            title = entry['title']
+            if re.search(r'Talks Machina', title):
+                pass  # reject
+            elif re.search(r'^Talking ', title):
+                pass  # reject
+            elif re.search(r'One-Shot', title):
+                pass  # reject
+            elif match := re.search(r'^Vox Machina Ep\. (\d+)', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = int(match.group(1))
+                cr1_entries.append(entry)
+            elif match := re.search(r'^Campaign Wrap-Up$', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = 9999
+                cr1_entries.append(entry)
+            elif match := re.search(r'^C2E(\d+)', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = int(match.group(1))
+                cr2_entries.append(entry)
+            elif match := re.search(r'Campaign 2 Wrap Up$', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = 9900
+                cr2_entries.append(entry)
+            elif match := re.search(r'The Mighty Nein Reunited Part (\d+)',
+                                    title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = 9910 + int(match.group(1))
+                cr2_entries.append(entry)
+            elif match := re.search(r'^C3E(\d+)', title):
+                pass  # reject
+            elif match := re.search(r'Exandria Unlimited', title):
+                pass  # reject
+            elif match := re.search(r'4-Sided Dive', title):
+                pass  # reject
+            elif re.search(r'(?:Critmas|Cast Q&A|Fireside Chat)', title):
+                pass  # reject
+            elif re.search(r'^(?:Honey Heist|UnDeadwood|Crash Pandas)', title):
+                pass  # reject
+            elif re.search(r'^(?:The Search For |A Familiar Problem)', title):
+                pass  # reject
+            elif re.search(r'(?:Call of Cthulhu|Dalen\'s Closet)', title):
+                pass  # reject
+            elif re.search(r'(?:Vox Machina vs\. |Guest Battle)', title):
+                pass  # reject
+            elif re.search(r'(?:Darrington Brigade)', title):
+                pass  # reject
+            elif re.search(r'^(?:Game Masters|Dignity)', title):
+                pass  # reject
+            else:
+                print(f"Unknown title: {title}")
+    for entries in (cr1_entries, cr2_entries):
+        entries.sort(key=lambda e: e['feed_sort_order'])
+        generate_monotonic_datetime(entries)
+    return (cr1_entries, cr2_entries)
+
+def make_crit_role_season_feed(*, season, author=None, pub_time=None):
+    feed = fo.FeedGenerator()
+    feed_uri = OUTPUT_URI_BASE + feed_filename(season=season)
+    logo_uri = OUTPUT_URI_BASE + logo_filename(season=season)
+    feed.id(feed_uri)
+    feed.load_extension('podcast')
+    feed.link(href=feed_uri, rel='self')
+    #feed.link(href=???, rel='alternate')
+    feed.title(f"Critical Role: season {season}")
+    feed.subtitle('A bunch of nerdy-ass voice actors[tm] playing TTRPGs')
+    feed.logo(logo_uri)
+    if author is not None:
+        feed.author(author)
+    else:
+        feed.author({'name': 'Critical Role', 'email': 'music@critrole.com'})
+    feed.language('en')
+    feed.category([{'term': t, 'scheme': 'http://www.itunes.com/'}
+                   for t in ('Leisure:Games', 'Leisure', 'Games',
+                             'critical role', 'dnd', 'role playing game',
+                             'ttrpg', 'dungeons and dragons', 'd and d',
+                             'actual play', 'rpg')])
+    feed.copyright('Copyright 2021 Geek and Sundry and/or Critical Role.')
+    if pub_time is not None:
+        feed.pubDate(pub_time)
+    return feed
+
+def populate_entry_data(entry_data, feed_entry):
+    feed_entry.title(entry_data['title'])
+    for l in entry_data['links']:
+        if l['rel'] != 'self':
+            feed_entry.link(l)
+    if 'comments' in entry_data:
+        feed_entry.comments(entry_data['comments'])
+    feed_entry.pubDate(entry_data['monotonic_datetime'])
+    feed_entry.id(entry_data['id'])
+    if 'content' in entry_data and 'value' in entry_data['content']:
+        feed_entry.content(entry_data['content']['value'])
+    if 'summary' in entry_data:
+        feed_entry.summary(entry_data['summary'])
+    elif 'subtitle' in entry_data:
+        feed_entry.summary(entry_data['subtitle'])
+    feed_entry.author(entry_data['authors'])
+    #if 'itunes_duration' in entry_data:
+    #    feed_entry.itunes_duration(entry_data['itunes_duration'])
+    #if 'image' in entry_data:
+    #    feed_entry.itunes_image(entry_data['image'])
+    #feed_entry.itunes_...(...)
+
+def generate_feeds(entries_lists):
+    now = dt.datetime.now(tz=dt.timezone.utc)
+    cr1 = make_crit_role_season_feed(season="1", pub_time=now,
+                                     author={'name': 'geekandsundry'})
+    cr2 = make_crit_role_season_feed(season="2", pub_time=now)
+    feeds = (cr1, cr2)
+    for feed, entries in zip(feeds, entries_lists):
+        for entry in entries:
+            populate_entry_data(entry, feed.add_entry(order='prepend'))
+    return feeds
+
+def write_feeds(feeds, *, top_path=OUTPUT_TOP_PATH):
+    for feed in feeds:
+        subpath = re.sub(r'^/+', '', urllib.parse.urlparse(feed.id()).path)
+        path = top_path + subpath
+        feed.atom_file(path)
+        print(f"Atom data written to '{path}'")
+
+def main():
+    write_feeds(generate_feeds(extract_entries(cache_file=None)))
+
+if __name__ == "__main__":
+    main()
