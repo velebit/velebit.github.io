@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-import bs4
 import copy as cp
 import datetime as dt
 import feedparser as fi
@@ -62,7 +61,7 @@ def _dump_skeleton(fd):
     pp.pp(fd, indent=4)
 
 def feed_rss_filename(*, season):
-    return f"{OUTPUT_DIR}CritRole_season_{season}.test00.rss"
+    return f"{OUTPUT_DIR}CritRole_season_{season}.rss"
 
 def logo_filename(*, season):
     return f"{OUTPUT_DIR}CritRole_season_{season}.jpg"
@@ -152,7 +151,7 @@ def make_crit_role_season_feed(*, season, author=None, pub_time=None):
     feed_uri = OUTPUT_URI_BASE + feed_rss_filename(season=season)
     logo_uri = OUTPUT_URI_BASE + logo_filename(season=season)
     feed.id(feed_uri)
-    feed.load_extension('podcast')  # NOTE: only works with RSS, not Atom?
+    feed.load_extension('podcast')  # NOTE: only works with RSS, not Atom!
     feed.link(href=feed_uri, rel='self')
     #feed.link(href=???, rel='alternate')
     feed.title(f"Critical Role: season {season}")
@@ -213,40 +212,15 @@ def generate_feeds(entries_lists):
                                 feed.add_entry(order='prepend'))
     return feeds
 
-def feeds_to_soups(feeds, *, top_path=OUTPUT_TOP_PATH):
-    soups = [{ 'feed': feed } for feed in feeds]
-    for s in soups:
-        s['rss_path'] = \
-            (top_path + re.sub(r'^/+', '',
-                               urllib.parse.urlparse(s['feed'].id()).path))
-        s['rss_soup'] = bs4.BeautifulSoup(s['feed'].rss_str(), "xml")
-        s['atom_path'] = re.sub(r'\.rss$', '', s['rss_path']) + '.atom'
-        s['atom_soup'] = bs4.BeautifulSoup(s['feed'].atom_str(), "xml")
-    return soups
-
-def modify_soups(soups):
-    for s in soups:
-        rss = s['rss_soup']
-        atom = s['atom_soup']
-    return soups
-
-def write_soups(soups, *, write_rss=True, write_atom=False):
-    formatter = bs4.formatter.XMLFormatter()
-    for soup_info in soups:
-        if write_rss:
-            rss_path = soup_info['rss_path']
-            with open(rss_path, 'wb') as fp:
-                fp.write(soup_info['rss_soup'].encode(formatter=formatter))
-            print(f"RSS data written to '{rss_path}'")
-        if write_atom:
-            atom_path = soup_info['atom_path']
-            with open(atom_path, 'wb') as fp:
-                fp.write(soup_info['atom_soup'].encode(formatter=formatter))
-            print(f"Atom data written to '{atom_path}'")
+def write_feeds(feeds, *, top_path=OUTPUT_TOP_PATH):
+    for feed in feeds:
+        subpath = re.sub(r'^/+', '', urllib.parse.urlparse(feed.id()).path)
+        path = top_path + subpath
+        feed.rss_file(path)
+        print(f"RSS data written to '{path}'")
 
 def main():
-    write_soups(modify_soups(feeds_to_soups(
-        generate_feeds(extract_entries(cache_file=None)))))
+    write_feeds(generate_feeds(extract_entries(cache_file=None)))
 
 if __name__ == "__main__":
     main()
