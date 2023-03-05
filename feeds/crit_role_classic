@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+import bs4
 import copy as cp
 import datetime as dt
 import feedparser as fi
@@ -60,8 +61,8 @@ def _dump_skeleton(fd):
             d['entries'][:] = d['entries'][0:1]
     pp.pp(fd, indent=4)
 
-def feed_filename(*, season):
-    return f"{OUTPUT_DIR}CritRole_season_{season}.atom"
+def feed_rss_filename(*, season):
+    return f"{OUTPUT_DIR}CritRole_season_{season}.test00.rss"
 
 def logo_filename(*, season):
     return f"{OUTPUT_DIR}CritRole_season_{season}.jpg"
@@ -148,31 +149,37 @@ def extract_entries(feeds=FEEDS, *, cache_file=FEED_DATA_CACHE_FILE):
 
 def make_crit_role_season_feed(*, season, author=None, pub_time=None):
     feed = fo.FeedGenerator()
-    feed_uri = OUTPUT_URI_BASE + feed_filename(season=season)
+    feed_uri = OUTPUT_URI_BASE + feed_rss_filename(season=season)
     logo_uri = OUTPUT_URI_BASE + logo_filename(season=season)
     feed.id(feed_uri)
-    feed.load_extension('podcast')
+    feed.load_extension('podcast')  # NOTE: only works with RSS, not Atom?
     feed.link(href=feed_uri, rel='self')
     #feed.link(href=???, rel='alternate')
     feed.title(f"Critical Role: season {season}")
     feed.subtitle('A bunch of nerdy-ass voice actors[tm] playing TTRPGs')
+    feed.podcast.itunes_image(logo_uri)
     feed.logo(logo_uri)
+    feed.image(logo_uri)
     if author is not None:
         feed.author(author)
     else:
         feed.author({'name': 'Critical Role', 'email': 'music@critrole.com'})
     feed.language('en')
+    feed.podcast.itunes_category([{'cat': 'Leisure', 'sub': 'Games'},
+                                  {'cat': 'Leisure'}, {'cat': 'Games'}])
     feed.category([{'term': t, 'scheme': 'http://www.itunes.com/'}
                    for t in ('Leisure:Games', 'Leisure', 'Games',
                              'critical role', 'dnd', 'role playing game',
                              'ttrpg', 'dungeons and dragons', 'd and d',
                              'actual play', 'rpg')])
     feed.copyright('Copyright 2021 Geek and Sundry and/or Critical Role.')
+    feed.podcast.itunes_block(False)
+    feed.podcast.itunes_explicit('no')
     if pub_time is not None:
         feed.pubDate(pub_time)
     return feed
 
-def populate_entry_data(entry_data, feed_entry):
+def populate_entry_data(entry_data, image, feed_entry):
     feed_entry.title(entry_data['title'])
     for l in entry_data['links']:
         if l['rel'] != 'self':
@@ -180,6 +187,7 @@ def populate_entry_data(entry_data, feed_entry):
     if 'comments' in entry_data:
         feed_entry.comments(entry_data['comments'])
     feed_entry.pubDate(entry_data['monotonic_datetime'])
+    feed_entry.updated(entry_data['monotonic_datetime'])
     feed_entry.id(entry_data['id'])
     if 'content' in entry_data and 'value' in entry_data['content']:
         feed_entry.content(entry_data['content']['value'])
@@ -188,11 +196,10 @@ def populate_entry_data(entry_data, feed_entry):
     elif 'subtitle' in entry_data:
         feed_entry.summary(entry_data['subtitle'])
     feed_entry.author(entry_data['authors'])
-    #if 'itunes_duration' in entry_data:
-    #    feed_entry.itunes_duration(entry_data['itunes_duration'])
-    #if 'image' in entry_data:
-    #    feed_entry.itunes_image(entry_data['image'])
-    #feed_entry.itunes_...(...)
+    feed_entry.podcast.itunes_image(image)
+    if 'itunes_duration' in entry_data:
+        feed_entry.podcast.itunes_duration(entry_data['itunes_duration'])
+    #feed_entry.podcast.itunes_...(...)
 
 def generate_feeds(entries_lists):
     now = dt.datetime.now(tz=dt.timezone.utc)
@@ -202,18 +209,44 @@ def generate_feeds(entries_lists):
     feeds = (cr1, cr2)
     for feed, entries in zip(feeds, entries_lists):
         for entry in entries:
-            populate_entry_data(entry, feed.add_entry(order='prepend'))
+            populate_entry_data(entry, feed.logo(),
+                                feed.add_entry(order='prepend'))
     return feeds
 
-def write_feeds(feeds, *, top_path=OUTPUT_TOP_PATH):
-    for feed in feeds:
-        subpath = re.sub(r'^/+', '', urllib.parse.urlparse(feed.id()).path)
-        path = top_path + subpath
-        feed.atom_file(path)
-        print(f"Atom data written to '{path}'")
+def feeds_to_soups(feeds, *, top_path=OUTPUT_TOP_PATH):
+    soups = [{ 'feed': feed } for feed in feeds]
+    for s in soups:
+        s['rss_path'] = \
+            (top_path + re.sub(r'^/+', '',
+                               urllib.parse.urlparse(s['feed'].id()).path))
+        s['rss_soup'] = bs4.BeautifulSoup(s['feed'].rss_str(), "xml")
+        s['atom_path'] = re.sub(r'\.rss$', '', s['rss_path']) + '.atom'
+        s['atom_soup'] = bs4.BeautifulSoup(s['feed'].atom_str(), "xml")
+    return soups
+
+def modify_soups(soups):
+    for s in soups:
+        rss = s['rss_soup']
+        atom = s['atom_soup']
+    return soups
+
+def write_soups(soups, *, write_rss=True, write_atom=False):
+    formatter = bs4.formatter.XMLFormatter()
+    for soup_info in soups:
+        if write_rss:
+            rss_path = soup_info['rss_path']
+            with open(rss_path, 'wb') as fp:
+                fp.write(soup_info['rss_soup'].encode(formatter=formatter))
+            print(f"RSS data written to '{rss_path}'")
+        if write_atom:
+            atom_path = soup_info['atom_path']
+            with open(atom_path, 'wb') as fp:
+                fp.write(soup_info['atom_soup'].encode(formatter=formatter))
+            print(f"Atom data written to '{atom_path}'")
 
 def main():
-    write_feeds(generate_feeds(extract_entries(cache_file=None)))
+    write_soups(modify_soups(feeds_to_soups(
+        generate_feeds(extract_entries(cache_file=None)))))
 
 if __name__ == "__main__":
     main()
