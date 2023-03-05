@@ -60,11 +60,11 @@ def _dump_skeleton(fd):
             d['entries'][:] = d['entries'][0:1]
     pp.pp(fd, indent=4)
 
-def feed_rss_filename(*, season):
-    return f"{OUTPUT_DIR}CritRole_season_{season}.rss"
+def feed_rss_filename(*, campaign):
+    return f"{OUTPUT_DIR}CritRole_campaign_{campaign}.rss"
 
-def logo_filename(*, season):
-    return f"{OUTPUT_DIR}CritRole_season_{season}.jpg"
+def logo_filename(*, campaign):
+    return f"{OUTPUT_DIR}CritRole_campaign_{campaign}.jpg"
 
 def generate_monotonic_datetime(entries):
     # convert parsed datetime as a date
@@ -146,15 +146,15 @@ def extract_entries(feeds=FEEDS, *, cache_file=FEED_DATA_CACHE_FILE):
         generate_monotonic_datetime(entries)
     return (cr1_entries, cr2_entries)
 
-def make_crit_role_season_feed(*, season, author=None, pub_time=None):
+def make_crit_role_campaign_feed(*, campaign, author=None, pub_time=None):
     feed = fo.FeedGenerator()
-    feed_uri = OUTPUT_URI_BASE + feed_rss_filename(season=season)
-    logo_uri = OUTPUT_URI_BASE + logo_filename(season=season)
+    feed_uri = OUTPUT_URI_BASE + feed_rss_filename(campaign=campaign)
+    logo_uri = OUTPUT_URI_BASE + logo_filename(campaign=campaign)
     feed.id(feed_uri)
     feed.load_extension('podcast')  # NOTE: only works with RSS, not Atom!
     feed.link(href=feed_uri, rel='self')
     #feed.link(href=???, rel='alternate')
-    feed.title(f"Critical Role: season {season}")
+    feed.title(f"Critical Role: campaign {campaign}")
     feed.subtitle('A bunch of nerdy-ass voice actors[tm] playing TTRPGs')
     feed.podcast.itunes_image(logo_uri)
     feed.logo(logo_uri)
@@ -202,9 +202,9 @@ def populate_entry_data(entry_data, image, feed_entry):
 
 def generate_feeds(entries_lists):
     now = dt.datetime.now(tz=dt.timezone.utc)
-    cr1 = make_crit_role_season_feed(season="1", pub_time=now,
-                                     author={'name': 'geekandsundry'})
-    cr2 = make_crit_role_season_feed(season="2", pub_time=now)
+    cr1 = make_crit_role_campaign_feed(campaign="1", pub_time=now,
+                                       author={'name': 'geekandsundry'})
+    cr2 = make_crit_role_campaign_feed(campaign="2", pub_time=now)
     feeds = (cr1, cr2)
     for feed, entries in zip(feeds, entries_lists):
         for entry in entries:
