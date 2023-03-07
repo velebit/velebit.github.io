@@ -10,7 +10,7 @@ import urllib.parse
 
 FEED_DATA_CACHE_FILE = 'cache.pkl'
 
-FEEDS = (
+FEED_URLS = (
     'https://feed.podbean.com/geekandsundry/feed.xml',
     'https://anchor.fm/s/91c7948/podcast/rss',
 )
@@ -36,18 +36,19 @@ def try_write_cache(cache_file, feed_data):
     except:
         print(f"Warning: could not write feed data to '{cache_file}'")
 
-def get_and_parse_feeds(feeds):
-    feed_data = [fi.parse(f) for f in feeds]
+def get_and_parse_feeds(feed_urls):
+    feed_data = [fi.parse(f) for f in feed_urls]
     print(f"Feed data downloaded and parsed")
     return feed_data
 
-def read_feeds(feeds=FEEDS, *, cache_file=FEED_DATA_CACHE_FILE):
-    assert type(feeds) is not str, "feeds should be a container of strings"
+def read_feeds(*, feed_urls, cache_file=FEED_DATA_CACHE_FILE):
+    assert type(feed_urls) is not str, \
+        "feed_urls should be a container of strings"
     feed_data = None
     if cache_file is not None:
         feed_data = try_read_cache(cache_file)
     if feed_data is None:
-        feed_data = get_and_parse_feeds(feeds)
+        feed_data = get_and_parse_feeds(feed_urls)
         if feed_data is not None and cache_file is not None:
             try_write_cache(cache_file, feed_data)
     return feed_data
@@ -83,8 +84,8 @@ def generate_monotonic_datetime(entries):
                 dt.timedelta(minutes=+1)
     return entries
 
-def extract_entries(feeds=FEEDS, *, cache_file=FEED_DATA_CACHE_FILE):
-    feed_data = read_feeds(feeds=feeds, cache_file=cache_file)
+def extract_entries(feed_urls=FEED_URLS, *, cache_file=FEED_DATA_CACHE_FILE):
+    feed_data = read_feeds(feed_urls=feed_urls, cache_file=cache_file)
     if False:
         _dump_skeleton(feed_data)
     cr1_entries = []
@@ -146,7 +147,8 @@ def extract_entries(feeds=FEEDS, *, cache_file=FEED_DATA_CACHE_FILE):
         generate_monotonic_datetime(entries)
     return (cr1_entries, cr2_entries)
 
-def make_crit_role_campaign_feed(*, campaign, author=None, pub_time=None):
+def make_crit_role_campaign_feed(*, campaign, author=None, pub_time=None,
+                                 feed_urls=None):
     feed = fo.FeedGenerator()
     feed_uri = OUTPUT_URI_BASE + feed_rss_filename(campaign=campaign)
     logo_uri = OUTPUT_URI_BASE + logo_filename(campaign=campaign)
@@ -154,8 +156,15 @@ def make_crit_role_campaign_feed(*, campaign, author=None, pub_time=None):
     feed.load_extension('podcast')  # NOTE: only works with RSS, not Atom!
     feed.link(href=feed_uri, rel='self')
     #feed.link(href=???, rel='alternate')
-    feed.title(f"Critical Role: campaign {campaign}")
-    feed.subtitle('A bunch of nerdy-ass voice actors[tm] playing TTRPGs')
+    title = f"Critical Role campaign {campaign}"
+    feed.title(title)
+    subtitle = ('A bunch of nerdy-ass voice actors[tm] playing TTRPGs.  ' +
+                f"This feed collects all {title} episodes")
+    if feed_urls is not None:
+        sources = " and/or ".join(feed_urls)
+        subtitle += f" originally published at {sources}"
+    subtitle += '.'
+    feed.subtitle(subtitle)
     feed.podcast.itunes_image(logo_uri)
     feed.logo(logo_uri)
     feed.image(logo_uri)
@@ -200,11 +209,13 @@ def populate_entry_data(entry_data, image, feed_entry):
         feed_entry.podcast.itunes_duration(entry_data['itunes_duration'])
     #feed_entry.podcast.itunes_...(...)
 
-def generate_feeds(entries_lists):
+def generate_feeds(entries_lists, *, feed_urls=None):
     now = dt.datetime.now(tz=dt.timezone.utc)
     cr1 = make_crit_role_campaign_feed(campaign="1", pub_time=now,
-                                       author={'name': 'geekandsundry'})
-    cr2 = make_crit_role_campaign_feed(campaign="2", pub_time=now)
+                                       author={'name': 'geekandsundry'},
+                                       feed_urls=feed_urls)
+    cr2 = make_crit_role_campaign_feed(campaign="2", pub_time=now,
+                                       feed_urls=feed_urls)
     feeds = (cr1, cr2)
     for feed, entries in zip(feeds, entries_lists):
         for entry in entries:
@@ -220,7 +231,10 @@ def write_feeds(feeds, *, top_path=OUTPUT_TOP_PATH):
         print(f"RSS data written to '{path}'")
 
 def main():
-    write_feeds(generate_feeds(extract_entries(cache_file=None)))
+    feed_urls = FEED_URLS
+    write_feeds(generate_feeds(
+        extract_entries(feed_urls=feed_urls, cache_file=None),
+        feed_urls=feed_urls))
 
 if __name__ == "__main__":
     main()
