@@ -16,6 +16,9 @@
   <itunes:category text="Arts">
     <itunes:category text="Literature" />
   </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt/Decameron_1002.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt/Decameron_1002.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
   <!-- file loop -->
     <item>
     <title><![CDATA[Proem.]]></title>
@@ -38,7 +41,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:47:53]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:01:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_001_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -50,7 +53,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:33:35]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:02:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_002_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -62,7 +65,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:11:37]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:03:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_003_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -74,7 +77,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:57]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:04:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_004_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -86,7 +89,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:09:44]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:05:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_005_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -98,7 +101,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:40]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:06:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_006_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -110,7 +113,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:06:07]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:07:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_007_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -122,7 +125,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:11:44]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:08:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_008_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -134,7 +137,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:03:37]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:09:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_010_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -146,7 +149,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:06:31]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:10:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_009_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -158,7 +161,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:10:42]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:11:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_011_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -170,7 +173,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:08:16]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:12:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_012_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -182,7 +185,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:01:59]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:13:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_013_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -194,7 +197,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:13:32]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:14:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_014_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -206,7 +209,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:15:28]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:15:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_015_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -218,7 +221,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:27:20]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:16:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_016_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -230,7 +233,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:11:59]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:17:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_017_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -242,7 +245,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:32:13]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:18:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_018_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -254,7 +257,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:29:50]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:19:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_019_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -266,7 +269,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:56:55]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:20:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_020_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -278,7 +281,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:40:58]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:21:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_021_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -290,7 +293,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:34:37]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:22:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_022_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -302,7 +305,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:18:50]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:23:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_023_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -314,7 +317,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:40]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:24:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_024_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -326,7 +329,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:08:38]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:25:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_025_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -338,7 +341,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:15:10]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:26:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_026_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -350,7 +353,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:17:26]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:27:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_027_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -362,7 +365,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:23:23]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:28:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_028_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -374,7 +377,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:13:39]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:29:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_029_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -386,7 +389,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:16:29]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:30:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_030_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -398,7 +401,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:21:26]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:31:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_031_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -410,7 +413,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:38:24]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:32:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_032_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -422,7 +425,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:24:02]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:33:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_033_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -434,7 +437,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:24:52]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:34:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_034_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -446,7 +449,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:14:15]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:35:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_035_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -458,7 +461,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:08:28]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:36:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_036_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -470,7 +473,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:18:40]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:37:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_037_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -482,7 +485,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:26:56]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:38:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_038_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -494,7 +497,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:30:52]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:39:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_039_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -506,7 +509,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:16:47]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:40:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_040_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -518,7 +521,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:14:22]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:41:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_041_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -530,7 +533,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:09:55]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:42:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_042_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -542,7 +545,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:19:54]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:43:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_043_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -554,7 +557,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:09:31]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:44:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_044_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -566,7 +569,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:14:58]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:45:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_045_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -578,7 +581,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:59]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:46:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_046_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -590,7 +593,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:20:32]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:47:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_047_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -602,7 +605,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:15]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:48:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_048_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -614,7 +617,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:02:41]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:49:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_049_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -626,7 +629,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:29:33]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:50:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_050_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -638,7 +641,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:13:30]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:51:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_051_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -650,7 +653,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:18:53]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:52:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_052_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -662,7 +665,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:12:22]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:53:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_053_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -674,7 +677,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:16:01]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:54:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_054_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -686,7 +689,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:19:01]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:55:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_055_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -698,7 +701,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:16:42]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:56:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_056_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -710,7 +713,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:15:05]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:57:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_057_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -722,7 +725,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:17:05]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:58:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_058_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -734,7 +737,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:20:11]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:59:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_059_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -746,7 +749,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:06:33]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:00:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_060_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -758,7 +761,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:05:55]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:01:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_061_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -770,7 +773,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:04:08]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:02:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_062_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -782,7 +785,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:11:59]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:03:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_063_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -794,7 +797,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:04:59]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:04:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_064_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -806,7 +809,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:13]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:05:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_065_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -818,7 +821,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:06:09]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:06:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_066_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -830,7 +833,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:05:59]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:07:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_067_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -842,7 +845,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:06:50]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:08:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_068_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -854,7 +857,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:03:43]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:09:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_069_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -866,7 +869,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:06:26]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:10:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_070_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -878,7 +881,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:19:52]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:11:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_071_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -890,7 +893,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:15:41]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:12:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_072_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -902,7 +905,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:03:54]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:13:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_073_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -914,7 +917,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:09:55]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:14:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_074_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -926,7 +929,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:10:54]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:15:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_075_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -938,7 +941,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:14:33]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:16:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_076_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -950,7 +953,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:10:41]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:17:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_077_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -962,7 +965,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:19:59]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:18:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_078_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -974,7 +977,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:13:10]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:19:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_079_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -986,7 +989,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:14:59]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:20:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_080_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -998,7 +1001,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:22:01]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:21:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_081_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1010,7 +1013,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:27:31]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:22:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_082_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1022,7 +1025,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:09:24]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:23:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_083_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1034,7 +1037,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:00]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:24:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_084_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1046,7 +1049,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:01:54]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:25:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_085_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1058,7 +1061,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:51]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:26:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_086_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1070,7 +1073,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:14:43]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:27:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_087_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1082,7 +1085,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:22:58]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:28:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_088_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1094,7 +1097,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:11:34]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:29:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_089_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1106,7 +1109,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:08:00]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:30:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_090_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1118,7 +1121,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:16:08]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:31:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_091_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1130,7 +1133,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[01:13:26]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:32:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_092_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1142,7 +1145,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:12:28]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:33:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_093_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1154,7 +1157,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:37:26]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:34:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_094_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1166,7 +1169,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:27:53]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:35:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_095_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1178,7 +1181,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:05:52]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:36:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_096_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1190,7 +1193,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:03:16]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:37:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_097_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1202,7 +1205,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:15:16]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:38:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_098_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1214,7 +1217,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:08:33]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:39:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_099_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1226,7 +1229,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:10:25]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:40:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_100_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1238,7 +1241,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:11:56]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:41:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_101_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1250,7 +1253,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:21:32]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:42:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_102_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1262,7 +1265,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:12:15]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:43:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_103_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1274,7 +1277,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:07:28]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:44:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_104_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1286,7 +1289,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:08:47]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:45:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_105_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1298,7 +1301,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:11:43]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:46:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_106_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1310,7 +1313,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:09:05]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:47:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_107_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1322,7 +1325,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:05:34]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:48:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_108_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1334,7 +1337,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:02:19]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:49:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_109_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1346,7 +1349,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:08:34]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:50:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_110_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1358,7 +1361,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:12:52]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:51:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_111_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1370,7 +1373,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:16:06]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:52:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_112_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1382,7 +1385,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:17:49]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:53:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_113_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1394,7 +1397,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:11:06]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:54:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_114_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1406,7 +1409,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:16:55]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:55:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_115_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1418,7 +1421,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:23:37]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:56:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_116_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1430,7 +1433,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:26:13]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:57:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_117a_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1442,7 +1445,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:24:33]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:58:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_117b_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1454,7 +1457,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:47:01]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 01:59:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_118_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1466,7 +1469,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:27:12]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 02:00:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_119_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1478,7 +1481,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:09:03]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 02:01:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_120_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
@@ -1490,7 +1493,7 @@
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 02:02:00 +0000</pubDate>
   <media:content url="https://archive.org/download/the_decameron_0903_librivox1/decameron_121_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <!-- end file loop -->
