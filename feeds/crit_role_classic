@@ -180,7 +180,7 @@ def make_crit_role_campaign_feed(*, campaign, author=None, pub_time=None,
                              'critical role', 'dnd', 'role playing game',
                              'ttrpg', 'dungeons and dragons', 'd and d',
                              'actual play', 'rpg')])
-    feed.copyright('Copyright 2021 Geek and Sundry and/or Critical Role.')
+    feed.copyright('Copyright 2015-2021 Geek and Sundry and/or Critical Role.')
     feed.podcast.itunes_block(False)
     feed.podcast.itunes_explicit('no')
     if pub_time is not None:
