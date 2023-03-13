@@ -1,0 +1,1498 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Decameron, The by Giovanni Boccaccio (1313 - 1375)]]></title>
+  <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/1939" />
+  <description><![CDATA[The Decameron (subtitle: Prencipe Galeotto) is a collection of 100 novellas by Italian author Giovanni Boccaccio, probably begun in 1350 and finished in 1353. It is a medieval allegorical work best known for its bawdy tales of love, appearing in all its possibilities from the erotic to the tragic. Many notable writers such as Shakespeare and Chaucer are said to have borrowed from The Decameron. (from Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Decameron (subtitle: Prencipe Galeotto) is a collection of 100 novellas by Italian author Giovanni Boccaccio, probably begun in 1350 and finished in 1353. It is a medieval allegorical work best known for its bawdy tales of love, appearing in all its possibilities from the erotic to the tragic. Many notable writers such as Shakespeare and Chaucer are said to have borrowed from The Decameron. (from Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Proem.]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_000_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:23]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_000_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How It Came About]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_001_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:53]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_001_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The First Story]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_002_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:35]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_002_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Second Story]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_003_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:37]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_003_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Third Story]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_004_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:57]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_004_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_005_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:44]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_005_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_006_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:40]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_006_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_007_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:07]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_007_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_008_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:44]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_008_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_010_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:37]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_010_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_009_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:31]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_009_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_011_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:42]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_011_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, Conclusion]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_012_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:16]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_012_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, Introduction]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_013_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_013_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The First Story]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_014_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_014_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Second Story]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_015_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:28]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_015_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Third Story]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_016_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:20]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_016_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_017_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_017_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_018_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:13]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_018_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_019_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:50]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_019_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_020_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:56:55]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_020_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_021_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:58]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_021_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_022_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:37]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_022_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_023_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:50]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_023_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 2, Conclusion]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_024_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:40]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_024_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, Introduction]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_025_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:38]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_025_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The First Story]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_026_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:10]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_026_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Second Story]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_027_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:26]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_027_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Third Story]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_028_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:23]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_028_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_029_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:39]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_029_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_030_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:29]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_030_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_031_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:26]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_031_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_032_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:38:24]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_032_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_033_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:02]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_033_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_034_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:52]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_034_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_035_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:15]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_035_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 3, Conclusion]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_036_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:28]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_036_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, Introduction]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_037_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:40]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_037_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The First Story]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_038_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:56]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_038_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Second Story]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_039_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:52]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_039_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Third Story]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_040_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:47]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_040_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_041_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:22]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_041_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_042_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:55]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_042_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_043_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_043_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_044_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:31]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_044_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_045_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:58]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_045_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_046_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_046_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_047_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_047_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 4, Conclusion]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_048_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:15]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_048_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, Introduction]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_049_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:41]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_049_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The First Story]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_050_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_050_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Second Story]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_051_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:30]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_051_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Third Story]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_052_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:53]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_052_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_053_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:22]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_053_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_054_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_054_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_055_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_055_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_056_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:42]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_056_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_057_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:05]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_057_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_058_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:05]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_058_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_059_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:11]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_059_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 5, Conclusion]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_060_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_060_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, Introduction]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_061_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:55]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_061_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The First Story]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_062_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:08]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_062_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Second Story]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_063_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_063_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Third Story]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_064_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_064_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[65]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_065_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:13]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_065_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[66]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_066_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:09]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_066_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[67]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_067_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_067_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[68]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_068_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:50]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_068_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[69]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_069_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_069_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[70]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_070_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:26]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_070_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[71]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_071_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:52]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_071_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 6, Conclusion]]></title>
+    <itunes:episode><![CDATA[72]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_072_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:41]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_072_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, Introduction]]></title>
+    <itunes:episode><![CDATA[73]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_073_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_073_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The First Story]]></title>
+    <itunes:episode><![CDATA[74]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_074_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:55]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_074_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Second Story]]></title>
+    <itunes:episode><![CDATA[75]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_075_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_075_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Third Story]]></title>
+    <itunes:episode><![CDATA[76]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_076_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_076_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[77]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_077_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:41]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_077_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[78]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_078_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_078_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[79]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_079_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:10]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_079_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[80]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_080_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_080_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[81]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_081_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_081_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[82]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_082_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:31]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_082_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[83]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_083_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:24]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_083_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 7, Conclusion]]></title>
+    <itunes:episode><![CDATA[84]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_084_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:00]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_084_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, Introduction]]></title>
+    <itunes:episode><![CDATA[85]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_085_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_085_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The First Story]]></title>
+    <itunes:episode><![CDATA[86]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_086_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_086_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Second Story]]></title>
+    <itunes:episode><![CDATA[87]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_087_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_087_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Third Story]]></title>
+    <itunes:episode><![CDATA[88]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_088_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:58]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_088_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[89]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_089_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:34]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_089_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[90]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_090_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:00]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_090_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[91]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_091_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:08]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_091_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[92]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_092_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:13:26]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_092_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[93]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_093_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:28]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_093_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[94]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_094_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:26]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_094_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[95]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_095_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:53]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_095_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 8, Conclusion]]></title>
+    <itunes:episode><![CDATA[96]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_096_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:52]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_096_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, Introduction]]></title>
+    <itunes:episode><![CDATA[97]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_097_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:16]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_097_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The First Story]]></title>
+    <itunes:episode><![CDATA[98]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_098_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:16]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_098_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Second Story]]></title>
+    <itunes:episode><![CDATA[99]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_099_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_099_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Third Story]]></title>
+    <itunes:episode><![CDATA[100]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_100_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:25]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_100_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[101]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_101_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:56]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_101_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[102]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_102_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_102_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[103]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_103_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:15]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_103_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[104]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_104_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:28]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_104_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Eighth Story]]></title>
+    <itunes:episode><![CDATA[105]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_105_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:47]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_105_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[106]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_106_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_106_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[107]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_107_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:05]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_107_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 9, Conclusion]]></title>
+    <itunes:episode><![CDATA[108]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_108_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:34]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_108_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, Introduction]]></title>
+    <itunes:episode><![CDATA[109]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_109_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:19]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_109_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The First Story]]></title>
+    <itunes:episode><![CDATA[110]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_110_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:34]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_110_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Second Story]]></title>
+    <itunes:episode><![CDATA[111]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_111_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:52]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_111_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Third Story]]></title>
+    <itunes:episode><![CDATA[112]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_112_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:06]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_112_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Fourth Story]]></title>
+    <itunes:episode><![CDATA[113]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_113_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:49]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_113_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Fifth Story]]></title>
+    <itunes:episode><![CDATA[114]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_114_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:06]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_114_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Sixth Story]]></title>
+    <itunes:episode><![CDATA[115]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_115_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:55]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_115_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Seventh Story]]></title>
+    <itunes:episode><![CDATA[116]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_116_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:37]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_116_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Eighth Story, part 1]]></title>
+    <itunes:episode><![CDATA[117]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_117a_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:13]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_117a_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Eighth Story, part 2]]></title>
+    <itunes:episode><![CDATA[118]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_117b_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_117b_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[119]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_118_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_118_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, The Tenth Story]]></title>
+    <itunes:episode><![CDATA[120]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_119_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:12]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_119_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 10, Conclusion]]></title>
+    <itunes:episode><![CDATA[121]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_120_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:03]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_120_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Author's Epilogue]]></title>
+    <itunes:episode><![CDATA[122]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://archive.org/download/the_decameron_0903_librivox1/decameron_121_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/the_decameron_0903_librivox1/decameron_121_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>
