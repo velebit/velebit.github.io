@@ -1,0 +1,30 @@
+#!/bin/bash
+
+Usage () {
+    if [ "$#" -gt 0 ]; then
+        for i in "$@"; do
+            echo "$i" >&2
+            echo "" >&2
+        done
+    fi
+    echo "Usage: $(basename "$0") FILENAME START_DATE" >&2
+    exit 1
+}
+
+if [ "$#" -ne 2 ]; then Usage; fi
+filename="$1"; shift
+date="$1"; shift
+
+if [ ! -r "$filename" ]; then
+    Usage "File '$filename' not found"
+fi
+
+case "$date" in
+    *:*|*+*)    rss_date="$($(dirname "$0")/format_rss_datetime "$date")" ;;
+    *)          rss_date="$($(dirname "$0")/format_rss_datetime "$date 00:00 +0000")" ;;
+esac
+if [ -z "$rss_date" ]; then
+    Usage "Date '$date' could not be parsed"
+fi
+
+perl -i -lpe '/pubDate/||next;s@(?:<!--)?<pubDate>file element=rss.pubDate</pubDate>(?:-->)?@<pubDate>'"$rss_date"'</pubDate>@;s/00:00/sprintf("%02d:%02d", $h, $m)/e;$m+=1;if($m==60){$h+=1;$m=0}' "$filename"

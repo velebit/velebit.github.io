@@ -1,0 +1,380 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Canterbury Tales, The by Geoffrey Chaucer (c. 1343 - 1400)]]></title>
+  <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/342" />
+  <description><![CDATA[The Canterbury Tales is a collection of stories written in Middle English by Geoffrey Chaucer in the 14th century (two of them in prose, the rest in verse). The tales, some of which are originals and others not, are contained inside a frame tale and told by a group of pilgrims on their way from Southwark to Canterbury to visit the shrine of Saint Thomas Becket at Canterbury Cathedral.
+The themes of the tales vary, and include topics such as courtly love, treachery, and avarice. The genres also vary, and include romance, Breton lai, sermon, beast fable, and fabliau. The characters, introduced in the General Prologue of the book, tell tales of great cultural relevance.
+The version read here was edited by D. Laing Purves (1838-1873) “for popular perusal” and the language is mostly updated.
+(Summary by Wikipedia/Gesine)
+
+]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Canterbury Tales is a collection of stories written in Middle English by Geoffrey Chaucer in the 14th century (two of them in prose, the rest in verse). The tales, some of which are originals and others not, are contained inside a frame tale and told by a group of pilgrims on their way from Southwark to Canterbury to visit the shrine of Saint Thomas Becket at Canterbury Cathedral.
+The themes of the tales vary, and include topics such as courtly love, treachery, and avarice. The genres also vary, and include romance, Breton lai, sermon, beast fable, and fabliau. The characters, introduced in the General Prologue of the book, tell tales of great cultural relevance.
+The version read here was edited by D. Laing Purves (1838-1873) “for popular perusal” and the language is mostly updated.
+(Summary by Wikipedia/Gesine)
+
+]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_01_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:21]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_01_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Life of Geoffrey Chaucer]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_02_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:58:18]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_02_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The General Prologue]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_03_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:39:00]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_03_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Knight’s Tale, Part 1]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_04a_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:06:20]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_04a_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Knight's Tale, Part 2]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_04b_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:19:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_04b_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Miller's Tale]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_05_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:54:42]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_05_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Reeve's Tale]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_06_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:23:26]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_06_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cook's Tale]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_07_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_07_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Men of Law's Tale]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_08_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:19:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_08_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wife of Bath's Tale]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_09_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:03:23]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_09_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Friar's Tale]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_10_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:53]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_10_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sompnour's Tale]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_11_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:43:03]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_11_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Clerk's Tale]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_12_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:20:06]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_12_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Merchant's Tale]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_13_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:21:25]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_13_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Squire's Tale]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_14_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:43:41]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_14_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Franklin's Tale]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_15_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:34]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_15_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Doctor's Tale]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_16_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_16_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pardoner's Tale]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_17_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:02]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_17_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shipman's Tale]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_18_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:36]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_18_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prioress's Tale]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_19_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:06]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_19_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tale of Sir Thopas]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_20_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:12]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_20_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chaucer’s Tale of Meliboeus]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_21_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:36:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_21_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Monk's Tale]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_22_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:29]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_22_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Nun’s Priest’s Tale]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_23_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:07]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_23_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Second Nun’s Tale]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_24_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_24_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Canons Yeoman’s Tale]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_25_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:28]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_25_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Manciple’s Tale]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_26_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:04]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_26_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Parson’s Tale]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_27_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:54:57]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_27_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Preces de Chauceres]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-canterbury-tales-by-geoffrey-chaucer/]]></link>
+            <enclosure url="https://www.archive.org/download/canterburytales_librivox/canterburytales_28_chaucer_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/canterburytales_librivox/canterburytales_28_chaucer_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>
