@@ -129,28 +129,28 @@
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_008_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
-    <title><![CDATA[Day 1, The Ninth Story]]></title>
-    <itunes:episode><![CDATA[9]]></itunes:episode>
-    <!--<reader>file element=reader</reader> -->
-    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
-            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_010_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
-  <itunes:explicit>No</itunes:explicit>
-  <itunes:block>No</itunes:block>
-  <itunes:duration><![CDATA[00:03:37]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:09:00 +0000</pubDate>
-  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_010_boccacio_64kb.mp3" type="audio/mpeg" />
- </item>
-    <item>
     <title><![CDATA[Day 1, The Eighth Story]]></title>
-    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
     <!--<reader>file element=reader</reader> -->
     <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
             <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_009_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
   <itunes:explicit>No</itunes:explicit>
   <itunes:block>No</itunes:block>
   <itunes:duration><![CDATA[00:06:31]]></itunes:duration>
-  <pubDate>Sun, 15 Mar 2009 00:10:00 +0000</pubDate>
+  <pubDate>Sun, 15 Mar 2009 00:09:00 +0000</pubDate>
   <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_009_boccacio_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Day 1, The Ninth Story]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-decameron-by-giovanni-boccaccio/]]></link>
+            <enclosure url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_010_boccacio_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:37]]></itunes:duration>
+  <pubDate>Sun, 15 Mar 2009 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/the_decameron_0903_librivox1/decameron_010_boccacio_64kb.mp3" type="audio/mpeg" />
  </item>
     <item>
     <title><![CDATA[Day 1, The Tenth Story]]></title>
