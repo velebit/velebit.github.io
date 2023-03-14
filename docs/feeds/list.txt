@@ -1,5 +1,8 @@
 https://velebit.github.io/feeds/CritRole_campaign_1.rss
 https://velebit.github.io/feeds/CritRole_campaign_2.rss
+https://velebit.github.io/feeds/ExU_Calamity.rss
+https://velebit.github.io/feeds/ExU_Kymal.rss
+https://velebit.github.io/feeds/ExU.rss
 https://velebit.github.io/feeds/librivox-1139-japanese-fairy-tales.rss
 https://velebit.github.io/feeds/librivox-1244-old-indian-legends.rss
 https://velebit.github.io/feeds/librivox-13583-priče-iz-davnine.rss

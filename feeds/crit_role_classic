@@ -61,11 +61,17 @@ def _dump_skeleton(fd):
             d['entries'][:] = d['entries'][0:1]
     pp.pp(fd, indent=4)
 
-def feed_rss_filename(*, campaign):
-    return f"{OUTPUT_DIR}CritRole_campaign_{campaign}.rss"
+def feed_rss_filename(*, title):
+    base = re.sub(r'^Exandria_Unlimited', 'ExU',
+                  re.sub(r'^Critical_Role_', 'CritRole_',
+                         re.sub(r'\W+', '_', title)))
+    return OUTPUT_DIR + base + ".rss"
 
-def logo_filename(*, campaign):
-    return f"{OUTPUT_DIR}CritRole_campaign_{campaign}.jpg"
+def logo_filename(*, title):
+    base = re.sub(r'^Exandria_Unlimited', 'ExU',
+                  re.sub(r'^Critical_Role_', 'CritRole_',
+                         re.sub(r'\W+', '_', title)))
+    return OUTPUT_DIR + base + ".jpg"
 
 def generate_monotonic_datetime(entries):
     # convert parsed datetime as a date
@@ -90,6 +96,9 @@ def extract_entries(feed_urls=FEED_URLS, *, cache_file=FEED_DATA_CACHE_FILE):
         _dump_skeleton(feed_data)
     cr1_entries = []
     cr2_entries = []
+    exu_og_entries = []
+    exu_ky_entries = []
+    exu_ca_entries = []
     for feed in feed_data:
         for entry in feed['entries']:
             title = entry['title']
@@ -103,15 +112,15 @@ def extract_entries(feed_urls=FEED_URLS, *, cache_file=FEED_DATA_CACHE_FILE):
                 entry = cp.deepcopy(entry)
                 entry['feed_sort_order'] = int(match.group(1))
                 cr1_entries.append(entry)
-            elif match := re.search(r'^Campaign Wrap-Up$', title):
+            elif match := re.search(r'^Campaign Wrap[- ]Up$', title):
                 entry = cp.deepcopy(entry)
-                entry['feed_sort_order'] = 9999
+                entry['feed_sort_order'] = 9900
                 cr1_entries.append(entry)
             elif match := re.search(r'^C2E(\d+)', title):
                 entry = cp.deepcopy(entry)
                 entry['feed_sort_order'] = int(match.group(1))
                 cr2_entries.append(entry)
-            elif match := re.search(r'Campaign 2 Wrap Up$', title):
+            elif match := re.search(r'Campaign 2 Wrap[- ]Up$', title):
                 entry = cp.deepcopy(entry)
                 entry['feed_sort_order'] = 9900
                 cr2_entries.append(entry)
@@ -120,9 +129,30 @@ def extract_entries(feed_urls=FEED_URLS, *, cache_file=FEED_DATA_CACHE_FILE):
                 entry = cp.deepcopy(entry)
                 entry['feed_sort_order'] = 9910 + int(match.group(1))
                 cr2_entries.append(entry)
+            elif match := re.search(r'Exandria Unlimited Episode (\d+)', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = int(match.group(1))
+                exu_og_entries.append(entry)
+            elif match := re.search(r'Exandria Unlimited Wrap[- ]Up', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = 9900
+                exu_og_entries.append(entry)
+            elif match := re.search(
+                    r'Exandria Unlimited: Kymal.*Part (\d+)', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = int(match.group(1))
+                exu_ky_entries.append(entry)
+            elif match := re.search(
+                    r'Exandria Unlimited: Calamity Episode (\d+)', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = int(match.group(1))
+                exu_ca_entries.append(entry)
+            elif match := re.search(
+                    r'Exandria Unlimited: Calamity Wrap[- ]Up', title):
+                entry = cp.deepcopy(entry)
+                entry['feed_sort_order'] = 9900
+                exu_ca_entries.append(entry)
             elif match := re.search(r'^C3E(\d+)', title):
-                pass  # reject
-            elif match := re.search(r'Exandria Unlimited', title):
                 pass  # reject
             elif match := re.search(r'4-Sided Dive', title):
                 pass  # reject
@@ -142,21 +172,22 @@ def extract_entries(feed_urls=FEED_URLS, *, cache_file=FEED_DATA_CACHE_FILE):
                 pass  # reject
             else:
                 print(f"Unknown title: {title}")
-    for entries in (cr1_entries, cr2_entries):
+    all_entries = (cr1_entries, cr2_entries,
+                   exu_og_entries, exu_ky_entries, exu_ca_entries)
+    for entries in all_entries:
         entries.sort(key=lambda e: e['feed_sort_order'])
         generate_monotonic_datetime(entries)
-    return (cr1_entries, cr2_entries)
+    return all_entries
 
-def make_crit_role_campaign_feed(*, campaign, author=None, pub_time=None,
-                                 feed_urls=None):
+def make_crit_role_feed(*, title, author=None, pub_time=None,
+                        feed_urls=None):
     feed = fo.FeedGenerator()
-    feed_uri = OUTPUT_URI_BASE + feed_rss_filename(campaign=campaign)
-    logo_uri = OUTPUT_URI_BASE + logo_filename(campaign=campaign)
+    feed_uri = OUTPUT_URI_BASE + feed_rss_filename(title=title)
+    logo_uri = OUTPUT_URI_BASE + logo_filename(title=title)
     feed.id(feed_uri)
     feed.load_extension('podcast')  # NOTE: only works with RSS, not Atom!
     feed.link(href=feed_uri, rel='self')
     #feed.link(href=???, rel='alternate')
-    title = f"Critical Role campaign {campaign}"
     feed.title(title)
     subtitle = ('A bunch of nerdy-ass voice actors[tm] playing TTRPGs.  ' +
                 f"This feed collects all {title} episodes")
@@ -211,16 +242,27 @@ def populate_entry_data(entry_data, image, feed_entry):
 
 def generate_feeds(entries_lists, *, feed_urls=None):
     now = dt.datetime.now(tz=dt.timezone.utc)
-    cr1 = make_crit_role_campaign_feed(campaign="1", pub_time=now,
-                                       author={'name': 'geekandsundry'},
-                                       feed_urls=feed_urls)
-    cr2 = make_crit_role_campaign_feed(campaign="2", pub_time=now,
-                                       feed_urls=feed_urls)
-    feeds = (cr1, cr2)
+    cr1 = make_crit_role_feed(
+        title="Critical Role campaign 1", pub_time=now,
+        author={'name': 'geekandsundry'},
+        feed_urls=feed_urls)
+    cr2 = make_crit_role_feed(
+        title="Critical Role campaign 2", pub_time=now,
+        feed_urls=feed_urls)
+    exu_og = make_crit_role_feed(
+        title="Exandria Unlimited", pub_time=now,
+        feed_urls=feed_urls)
+    exu_ky = make_crit_role_feed(
+        title="Exandria Unlimited: Kymal", pub_time=now,
+        feed_urls=feed_urls)
+    exu_ca = make_crit_role_feed(
+        title="Exandria Unlimited: Calamity", pub_time=now,
+        feed_urls=feed_urls)
+    feeds = (cr1, cr2, exu_og, exu_ky, exu_ca)
     for feed, entries in zip(feeds, entries_lists):
         for entry in entries:
             populate_entry_data(entry, feed.logo(),
-                                feed.add_entry(order='prepend'))
+                                feed.add_entry(order='append'))
     return feeds
 
 def write_feeds(feeds, *, top_path=OUTPUT_TOP_PATH):
