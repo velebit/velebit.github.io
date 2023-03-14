@@ -1,0 +1,325 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Aesop's Fables, Volume 06 (Fables 126-150) by Aesop (c. 620 BCE - 564)]]></title>
+  <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/196" />
+  <description><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 6 of 12.(Summary by Chip)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 6 of 12.(Summary by Chip)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/aesop_fables_volume_six_librivox/aesops_fables_six_1012.jpg</url></image>
+  <itunes:image href="https://archive.org/download/aesop_fables_volume_six_librivox/aesops_fables_six_1012.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Old Hound]]></title>
+    <itunes:episode><![CDATA[126]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_01_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_01_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Clown and The Countryman]]></title>
+    <itunes:episode><![CDATA[127]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_02_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:01:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_02_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lark and The Farmer]]></title>
+    <itunes:episode><![CDATA[128]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_03_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:02:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_03_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lion and The Ass]]></title>
+    <itunes:episode><![CDATA[129]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_04_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:03:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_04_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prophet]]></title>
+    <itunes:episode><![CDATA[130]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_05_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:04:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_05_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hound and The Hare]]></title>
+    <itunes:episode><![CDATA[131]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_06_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:05:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_06_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lion, The Mouse, and The Fox]]></title>
+    <itunes:episode><![CDATA[132]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_07_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:06:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_07_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Trumpeter Taken Prisoner]]></title>
+    <itunes:episode><![CDATA[133]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_08_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:07:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_08_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf and The Crane]]></title>
+    <itunes:episode><![CDATA[134]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_09_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:08:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_09_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eagle, The Cat, and The Wild Sow]]></title>
+    <itunes:episode><![CDATA[135]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_10_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:09:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_10_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf and The Sheep]]></title>
+    <itunes:episode><![CDATA[136]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_11_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:10:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_11_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tunny-Fish and The Dolphin]]></title>
+    <itunes:episode><![CDATA[137]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_12_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:11:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_12_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Tradesmen]]></title>
+    <itunes:episode><![CDATA[138]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_13_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:12:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_13_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mouse and The Bull]]></title>
+    <itunes:episode><![CDATA[139]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_14_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:13:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_14_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hare and The Hound]]></title>
+    <itunes:episode><![CDATA[140]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_15_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:14:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_15_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Town Mouse and The Country Mouse]]></title>
+    <itunes:episode><![CDATA[141]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_16_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:15:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_16_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lion and The Bull]]></title>
+    <itunes:episode><![CDATA[142]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_17_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:16:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_17_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf, The Fox and The Ape]]></title>
+    <itunes:episode><![CDATA[143]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_18_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:17:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_18_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eagle and The Cocks]]></title>
+    <itunes:episode><![CDATA[144]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_19_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:18:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_19_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Escaped Jackdaw]]></title>
+    <itunes:episode><![CDATA[145]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_20_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:19:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_20_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Farmer and The Fox]]></title>
+    <itunes:episode><![CDATA[146]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_21_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:20:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_21_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Venus and The Cat]]></title>
+    <itunes:episode><![CDATA[147]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_22_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:21:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_22_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crow and The Swan]]></title>
+    <itunes:episode><![CDATA[148]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_23_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:22:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_23_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stag With One Eye]]></title>
+    <itunes:episode><![CDATA[149]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_24_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:23:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_24_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fly and The Draught-Mule]]></title>
+    <itunes:episode><![CDATA[150]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-6-fables-126-150/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_25_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 01 Mar 2006 00:24:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_six_librivox/fables_06_25_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

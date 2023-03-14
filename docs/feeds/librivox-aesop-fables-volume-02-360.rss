@@ -1,0 +1,325 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Aesop's Fables, Volume 02 (Fables 26-50) by Aesop (c. 620 BCE - 564)]]></title>
+  <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/360" />
+  <description><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 2 of 12. (Summary by ChipDoc)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 2 of 12. (Summary by ChipDoc)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/aesop_fables_volume_two_librivox/aesops_fables_two_1012.jpg</url></image>
+  <itunes:image href="https://archive.org/download/aesop_fables_volume_two_librivox/aesops_fables_two_1012.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Fox and The Stork ]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_01_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:00:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_01_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf in Sheep’s Clothing ]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_02_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:01:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_02_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stag in the Ox-Stall ]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_03_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:02:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_03_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Milkmaid and Her Pail ]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_04_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:03:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_04_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dolphins, The Whales, and The Sprat ]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_05_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:04:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_05_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox and The Monkey]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_06_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:05:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_06_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and The Lap-Dog]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_07_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:06:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_07_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fir-Tree and The Bramble]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_08_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:07:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_08_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Frogs’ Complaint Against The Sun]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_09_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:08:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_09_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dog, The Cock, and The Fox]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_10_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:09:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_10_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Gnat and The Bull]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_11_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:10:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_11_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bear and The Travellers]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_12_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:11:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_12_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Slave and The Lion]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_13_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:12:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_13_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Flea and The Man]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_14_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:13:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_14_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bee and Jupiter]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_15_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:14:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_15_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Oak and The Reeds]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_16_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:15:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_16_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Blind Man and The Cub]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_17_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:16:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_17_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy and The Snails]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_18_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:17:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_18_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Apes and The Two Travellers]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_19_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:18:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_19_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and His Burdens]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_20_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:19:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_20_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sheperd’s Boy and the Wolf ]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_21_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:20:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_21_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox and The Goat]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_22_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:21:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_22_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fisherman and The Sprat]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_23_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:22:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_23_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boasting Traveller]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_24_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:23:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_24_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crab and His Mother]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-2-fables-26-50/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_25_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 06 Feb 2006 00:24:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_two_librivox/fables_02_25_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

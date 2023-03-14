@@ -1,0 +1,325 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Aesop's Fables, Volume 04 (Fables 76-100) by Aesop (c. 620 BCE - 564)]]></title>
+  <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/194" />
+  <description><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 4 of 12. (Summary by Chip)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 4 of 12. (Summary by Chip)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/aesop_fables_volume_four_librivox/aesops_fables_four_1012.jpg</url></image>
+  <itunes:image href="https://archive.org/download/aesop_fables_volume_four_librivox/aesops_fables_four_1012.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Frogs Asking for a King]]></title>
+    <itunes:episode><![CDATA[76]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_01_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:00:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_01_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Olive-Tree and the Fig-Tree]]></title>
+    <itunes:episode><![CDATA[77]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_02_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:01:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_02_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lion and the Boar]]></title>
+    <itunes:episode><![CDATA[78]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_03_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:02:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_03_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Walnut Tree]]></title>
+    <itunes:episode><![CDATA[79]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_04_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:03:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_04_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Man and the Lion]]></title>
+    <itunes:episode><![CDATA[80]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_05_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:04:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_05_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tortoise and the Eagle]]></title>
+    <itunes:episode><![CDATA[81]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_06_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:05:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_06_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Kid on the Housetop]]></title>
+    <itunes:episode><![CDATA[82]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_07_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:06:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_07_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox Without A Tail]]></title>
+    <itunes:episode><![CDATA[83]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_08_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:07:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_08_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Vain Jackdaw]]></title>
+    <itunes:episode><![CDATA[84]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_09_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:08:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_09_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Traveller and His Dog]]></title>
+    <itunes:episode><![CDATA[85]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_10_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:09:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_10_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shipwrecked Man and the Sea]]></title>
+    <itunes:episode><![CDATA[86]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_11_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:10:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_11_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wild Boar and The Fox]]></title>
+    <itunes:episode><![CDATA[87]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_12_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:11:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_12_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mercury and The Sculptor]]></title>
+    <itunes:episode><![CDATA[88]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_13_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:12:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_13_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fawn and His Mothe]]></title>
+    <itunes:episode><![CDATA[89]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_14_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:13:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_14_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox and The Lion]]></title>
+    <itunes:episode><![CDATA[90]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_15_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:14:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_15_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eagle and His Captor]]></title>
+    <itunes:episode><![CDATA[91]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_16_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:15:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_16_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Blacksmith and His Dog]]></title>
+    <itunes:episode><![CDATA[92]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_17_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:16:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_17_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stag at the Pool]]></title>
+    <itunes:episode><![CDATA[93]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_18_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:17:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_18_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dog and the Shadow]]></title>
+    <itunes:episode><![CDATA[94]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_19_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:18:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_19_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mercury and The Tradesmen]]></title>
+    <itunes:episode><![CDATA[95]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_20_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:19:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_20_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mice and the Weasels]]></title>
+    <itunes:episode><![CDATA[96]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_21_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:20:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_21_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Peacock and Juno]]></title>
+    <itunes:episode><![CDATA[97]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_22_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:21:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_22_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bear and the Fox]]></title>
+    <itunes:episode><![CDATA[98]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_23_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:22:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_23_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and the Old Peasant]]></title>
+    <itunes:episode><![CDATA[99]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_24_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:23:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_24_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ox and The Frog]]></title>
+    <itunes:episode><![CDATA[100]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-4-fables-76-100/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_25_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 21 Feb 2006 00:24:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/aesop_fables_volume_four_librivox/fables_04_25_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

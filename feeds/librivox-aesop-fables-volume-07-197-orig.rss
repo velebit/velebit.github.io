@@ -1,0 +1,322 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Aesop's Fables, Volume 07 (Fables 151-175) by Aesop (c. 620 BCE - 564)]]></title>
+  <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/197" />
+  <description><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 7 of 12.(Summary by Chip)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 7 of 12.(Summary by Chip)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Cock and The Jewel ]]></title>
+    <itunes:episode><![CDATA[151]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_01_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_01_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf and The Shepherd]]></title>
+    <itunes:episode><![CDATA[152]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_02_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_02_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Farmer and The Stork]]></title>
+    <itunes:episode><![CDATA[153]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_03_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_03_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Charger and The Miller]]></title>
+    <itunes:episode><![CDATA[154]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_04_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_04_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Grasshopper and The Owl]]></title>
+    <itunes:episode><![CDATA[155]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_05_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_05_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Grasshopper and The Ants]]></title>
+    <itunes:episode><![CDATA[156]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_06_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_06_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Farmer and The Viper]]></title>
+    <itunes:episode><![CDATA[157]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_07_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_07_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Two Frogs]]></title>
+    <itunes:episode><![CDATA[158]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_08_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_08_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cobler Turned Doctor]]></title>
+    <itunes:episode><![CDATA[159]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_09_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_09_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass, The Cock, and The Lion]]></title>
+    <itunes:episode><![CDATA[160]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_10_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_10_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Belly and The Members]]></title>
+    <itunes:episode><![CDATA[161]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_11_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_11_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bald Man and the Fly]]></title>
+    <itunes:episode><![CDATA[162]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_12_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_12_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and the Wolf]]></title>
+    <itunes:episode><![CDATA[163]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_13_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_13_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Monkey and The Camel]]></title>
+    <itunes:episode><![CDATA[164]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_14_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_14_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sick Man and The Doctor]]></title>
+    <itunes:episode><![CDATA[165]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_15_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_15_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Travellers and The Plane-Tree]]></title>
+    <itunes:episode><![CDATA[166]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_16_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_16_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Flea and the Ox]]></title>
+    <itunes:episode><![CDATA[167]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_17_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_17_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Birds, The Beasts, and The Bat]]></title>
+    <itunes:episode><![CDATA[168]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_18_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_18_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Man and His Two Sweethearts]]></title>
+    <itunes:episode><![CDATA[169]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_19_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_19_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eagle, the Jackdaw and the Shepherd]]></title>
+    <itunes:episode><![CDATA[170]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_20_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_20_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf and The Boy]]></title>
+    <itunes:episode><![CDATA[171]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_21_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_21_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Miller, His Son and their Ass]]></title>
+    <itunes:episode><![CDATA[172]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_22_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_22_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stag and the Vine]]></title>
+    <itunes:episode><![CDATA[173]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_23_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_23_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lamb Chased by a Wolf]]></title>
+    <itunes:episode><![CDATA[174]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_24_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_24_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Archer and the Lion]]></title>
+    <itunes:episode><![CDATA[175]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-7-fables-151-175/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_25_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_seven_librivox/fables_07_25_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,322 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Aesop's Fables, Volume 09 (Fables 201-225) by Aesop (c. 620 BCE - 564)]]></title>
+  <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/199" />
+  <description><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 9 of 12.(Summary by Chip)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 9 of 12.(Summary by Chip)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Pack Ass, The Wild Ass and The Lion]]></title>
+    <itunes:episode><![CDATA[201]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_01_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_01_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ant]]></title>
+    <itunes:episode><![CDATA[202]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_02_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_02_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Frogs and The Well]]></title>
+    <itunes:episode><![CDATA[203]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_03_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_03_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crab and The Fox]]></title>
+    <itunes:episode><![CDATA[204]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_04_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_04_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fox and The Grasshopper]]></title>
+    <itunes:episode><![CDATA[205]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_05_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_05_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Farmer, His Boy, and The Rooks]]></title>
+    <itunes:episode><![CDATA[206]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_06_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_06_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and The Dog]]></title>
+    <itunes:episode><![CDATA[207]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_07_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_07_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass Carrying The Image]]></title>
+    <itunes:episode><![CDATA[208]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_08_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_08_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Athenian and The Theban]]></title>
+    <itunes:episode><![CDATA[209]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_09_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_09_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Goatherd and the Goat]]></title>
+    <itunes:episode><![CDATA[210]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_10_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_10_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sheep and the Dog]]></title>
+    <itunes:episode><![CDATA[211]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_11_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_11_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shepherd and The Wolf]]></title>
+    <itunes:episode><![CDATA[212]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_12_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_12_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lion, Jupiter and The Elephant]]></title>
+    <itunes:episode><![CDATA[213]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_13_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_13_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pig and The Sheep]]></title>
+    <itunes:episode><![CDATA[214]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_14_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_14_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Gardener and His Dog]]></title>
+    <itunes:episode><![CDATA[215]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_15_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_15_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Rivers and The Sea]]></title>
+    <itunes:episode><![CDATA[216]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_16_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_16_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lion in Love]]></title>
+    <itunes:episode><![CDATA[217]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_17_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_17_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bee-keeper]]></title>
+    <itunes:episode><![CDATA[218]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_18_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_18_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolf and the Horse]]></title>
+    <itunes:episode><![CDATA[219]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_19_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_19_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bat, the Bramble and the Seagull]]></title>
+    <itunes:episode><![CDATA[220]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_20_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_20_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dog and The Wolf]]></title>
+    <itunes:episode><![CDATA[221]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_21_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_21_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wasp and the Snake]]></title>
+    <itunes:episode><![CDATA[222]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_22_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_22_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Eagle and the Beetle]]></title>
+    <itunes:episode><![CDATA[223]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_23_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_23_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fowler and The Lark]]></title>
+    <itunes:episode><![CDATA[224]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_24_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_24_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fisherman Piping]]></title>
+    <itunes:episode><![CDATA[225]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-9-fables-201-225/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_25_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_nine_librivox/fables_09_25_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

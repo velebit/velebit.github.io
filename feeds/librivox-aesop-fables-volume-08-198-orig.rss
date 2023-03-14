@@ -1,0 +1,322 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Aesop's Fables, Volume 08 (Fables 176-200) by Aesop (c. 620 BCE - 564)]]></title>
+  <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/198" />
+  <description><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 8 of 12.(Summary by Chip)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 8 of 12.(Summary by Chip)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Wolf and The Goat]]></title>
+    <itunes:episode><![CDATA[176]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_01_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_01_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sick Stag]]></title>
+    <itunes:episode><![CDATA[177]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_02_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_02_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and The Mule]]></title>
+    <itunes:episode><![CDATA[178]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_03_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_03_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Brother and Sister]]></title>
+    <itunes:episode><![CDATA[179]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_04_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_04_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Heifer and The Ox]]></title>
+    <itunes:episode><![CDATA[180]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_05_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_05_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Kingdom of The Lion]]></title>
+    <itunes:episode><![CDATA[181]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_06_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_06_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and His Driver]]></title>
+    <itunes:episode><![CDATA[182]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_07_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_07_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lion and The Hare]]></title>
+    <itunes:episode><![CDATA[183]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_08_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_08_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wolves and The Dogs]]></title>
+    <itunes:episode><![CDATA[184]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_09_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_09_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bull and The Calf]]></title>
+    <itunes:episode><![CDATA[185]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_10_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_10_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Trees and The Axe]]></title>
+    <itunes:episode><![CDATA[186]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_11_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_11_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Astronomer]]></title>
+    <itunes:episode><![CDATA[187]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_12_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_12_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Labourer and The Snake]]></title>
+    <itunes:episode><![CDATA[188]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_12_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_12_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cage-Bird and The Bat]]></title>
+    <itunes:episode><![CDATA[189]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_14_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_14_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and His Purchaser]]></title>
+    <itunes:episode><![CDATA[190]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_15_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_15_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Kid and The Wolf]]></title>
+    <itunes:episode><![CDATA[191]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_16_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_16_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Debtor and His Sow]]></title>
+    <itunes:episode><![CDATA[192]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_17_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_17_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bald Huntsman]]></title>
+    <itunes:episode><![CDATA[193]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_18_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_18_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Herdsman and The Lost Bull]]></title>
+    <itunes:episode><![CDATA[194]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_19_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_19_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mule]]></title>
+    <itunes:episode><![CDATA[195]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_20_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_20_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hound and the Fox]]></title>
+    <itunes:episode><![CDATA[196]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_21_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_21_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Father and His Daughters]]></title>
+    <itunes:episode><![CDATA[197]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_22_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_22_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Thief and The Innkeeper]]></title>
+    <itunes:episode><![CDATA[198]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_23_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_23_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pack Ass and The Wild Ass]]></title>
+    <itunes:episode><![CDATA[199]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_24_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_24_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass and His Masters]]></title>
+    <itunes:episode><![CDATA[200]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-8-fables-176-200/]]></link>
+            <enclosure url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_25_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://archive.org/download/aesop_fables_volume_eight_librivox/fables_08_25_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -46,7 +46,9 @@ def process_url(page_url, *, settings):
     if settings.name is not None:
         name = settings.name
     else:
-        name = re.sub(r'\W+', '-', title.lower())  # used in filenames etc.
+        name = re.sub(r"'s\b", "", title.lower())
+        name = re.sub(r'\W+', '-',
+                      re.sub(r'\W+$', '', re.sub(r'^\W+', '', name)))
     rss_url = get_link_url(page_html, 'RSS')
     lvid = re.sub(r'\D+', '', re.sub(r'^.*/', '', rss_url))
     image_url = get_link_url(page_html, 'Download cover art')

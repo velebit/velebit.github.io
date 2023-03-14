@@ -1,0 +1,322 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Aesop's Fables, Volume 03 (Fables 51-75) by Aesop (c. 620 BCE - 564)]]></title>
+  <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/193" />
+  <description><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 3 of 12. (Summary by Chip)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Dating back to the 6th century BC, Aesop's Fables tell universal truths through the use of simple allegories that are easily understood. Though almost nothing is known of Aesop himself, and some scholars question whether he existed at all, these stories stand as timeless classics known in almost every culture in the world. This is volume 3 of 12. (Summary by Chip)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Ass and His Shadow]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_01_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_01_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Farmer and His Sons]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_02_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_02_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dog and The Cook]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_03_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_03_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Monkey As King]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_04_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_04_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Thieves and the Cock]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_05_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_05_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Farmer and Fortune]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_06_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_06_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Jupiter and the Monkey]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_07_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_07_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Father and Sons]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_08_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_08_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lamp]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_09_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_09_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Owl and The Birds]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_10_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_10_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ass In The Lion’s Skin]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_11_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_11_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The She-Goats and Their Beards]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_12_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_12_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old Lion]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_13_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_13_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy Bathing]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_14_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_14_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quack Frog]]></title>
+    <itunes:episode><![CDATA[65]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_15_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_15_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Swollen Fox]]></title>
+    <itunes:episode><![CDATA[66]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_16_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_16_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mouse, The Frog, and The Hawk]]></title>
+    <itunes:episode><![CDATA[67]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_17_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_17_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy and The Nettles]]></title>
+    <itunes:episode><![CDATA[68]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_18_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_18_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Peasant and The Apple-Tree]]></title>
+    <itunes:episode><![CDATA[69]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_19_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_19_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Jackdaw and The Pigeons]]></title>
+    <itunes:episode><![CDATA[70]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_20_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_20_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Jupiter and The Tortise]]></title>
+    <itunes:episode><![CDATA[71]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_21_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_21_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dog in The Manger]]></title>
+    <itunes:episode><![CDATA[72]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_22_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_22_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Two Bags]]></title>
+    <itunes:episode><![CDATA[73]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_23_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_23_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Oxen and The Axletrees]]></title>
+    <itunes:episode><![CDATA[74]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_24_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_24_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy and The Filberts]]></title>
+    <itunes:episode><![CDATA[75]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/aesops-fables-volume-3-fables-51-75/]]></link>
+            <enclosure url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_25_aesop_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/aesop_fables_volume_three_librivox/fables_03_25_aesop_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>
