@@ -1,0 +1,243 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Andersen's Fairy Tales by Hans Christian Andersen (1805 - 1875)]]></title>
+  <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/144" />
+  <description><![CDATA[A collection of eighteen fairy tales - some popular, some lesser known - by famous Danish author H.C. Andersen.
+(Summary by Gesine)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A collection of eighteen fairy tales - some popular, some lesser known - by famous Danish author H.C. Andersen.
+(Summary by Gesine)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/andersens_fairytales_librivox/andersens_fairy_tales.jpg</url></image>
+  <itunes:image href="https://archive.org/download/andersens_fairytales_librivox/andersens_fairy_tales.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Emperor's New Clothes]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_01_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:31]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_01_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Swineherd]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_02_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:26]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_02_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Real Princess]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_03_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:18]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_03_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shoes of Fortune]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_04_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:06:44]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_04_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fir Tree]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_05_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:38]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_05_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Snow Queen]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_06_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:13:38]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_06_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Leap-Frog]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_07_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:05]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_07_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Elderbush]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_08_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:11]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_08_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bell]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_09_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:47]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_09_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Old House]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_10_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:31]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_10_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Happy Family]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_11_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:27]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_11_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of a Mother]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_12_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:25]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_12_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The False Collar]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_13_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:07]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_13_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Shadow]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_14_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:25]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_14_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Match Girl]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_15_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:58]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_15_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dream of Little Tuk]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_16_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:45]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_16_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Naughty Boy]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_17_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:27]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_17_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Red Shoes ]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/andersens-fairy-tales-by-hc-andersen/]]></link>
+            <enclosure url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_18_andersen_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:40]]></itunes:duration>
+  <pubDate>Mon, 15 May 2006 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/andersens_fairytales_librivox/fairytales_18_andersen_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

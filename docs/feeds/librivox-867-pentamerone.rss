@@ -1,0 +1,409 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Stories from Pentamerone by  Giambattista Basile (c. 1575 - 1632)]]></title>
+  <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/867" />
+  <description><![CDATA[This is one of the oldest written collections of fairy tales. Although the names are different, listeners should recognise many of the stories as the basis of modern fairy tales. Be warned however, that these stories are a lot more violent and gruesome then the Disney versions you may be familiar with. Parents should listen to the files to gauge their suitability before allowing children to listen to them. (written by Joy Chan) ]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This is one of the oldest written collections of fairy tales. Although the names are different, listeners should recognise many of the stories as the basis of modern fairy tales. Be warned however, that these stories are a lot more violent and gruesome then the Disney versions you may be familiar with. Parents should listen to the files to gauge their suitability before allowing children to listen to them. (written by Joy Chan) ]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt/Stories_from_Pentamerone_1003.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt/Stories_from_Pentamerone_1003.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[How the Tales came to be told]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_01_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:38]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_01_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Myrtle]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_02_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:38]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_02_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Peruonto]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_03_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:35]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_03_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Vardiello]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_04_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:14]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_04_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Flea]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_05_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:15]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_05_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cenerentola]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_06_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:02]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_06_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Merchant]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_07_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:06]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_07_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Goat-Face]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_08_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:07]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_08_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Enchanted Doe]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_09_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:02]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_09_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Parsley]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_10_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:03]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_10_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Sisters]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_11_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:27]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_11_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Violet]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_12_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:00]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_12_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pippo]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_13_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:44]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_13_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Serpent]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_14_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:02]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_14_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The She-Bear]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_15_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:14]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_15_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dove]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_16_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:00]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_16_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cannetella]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_17_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:55]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_17_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Corvetto]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_18_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:00]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_18_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Booby]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_19_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:05]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_19_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stone in the Cock's Head]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_20_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:35]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_20_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Enchanted Princes]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_21_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:17]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_21_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Dragon]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_22_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:15]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_22_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Two Cakes]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_23_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:51]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_23_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Seven Doves]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_24_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:19]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_24_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Raven]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_25_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:24]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:24:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_25_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Months]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_26_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:25]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:25:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_26_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Pintosmalto]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_27_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:38]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:26:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_27_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Root]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_28_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:14]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:27:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_28_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sun, Moon, and Talia]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_29_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:00]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:28:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_29_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nennillo and Nennella]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_30_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:57]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:29:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_30_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Citrons]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_31_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:56]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:30:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_31_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Conclusion]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-from-pentamerone-by-giambattista-basile/]]></link>
+            <enclosure url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_32_basile_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:59]]></itunes:duration>
+  <pubDate>Fri, 08 Feb 2008 00:31:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/stories_from_pentamerone_jc_librivox/pentamerone_32_basile_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

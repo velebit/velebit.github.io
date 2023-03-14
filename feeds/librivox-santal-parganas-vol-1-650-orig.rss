@@ -1,0 +1,322 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Folklore of the Santal Parganas, Vol. 1 by Unknown]]></title>
+  <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/650" />
+  <description><![CDATA[This is an intriguing collection of folklore from the Santal Parganas, a district in India located about 150 miles from Calcutta. As its preface implies, this collection is intended to give an unadulterated view of a culture through its folklore. It contains a variety of stories about different aspects of life, including family and marriage, religion, and work. In this first volume, taken from Part I, each story is centered around a particular human character. These range from the charmingly clever (as the character, The Oilman, in the story, "The Oilman and His Sons"), to the tragically comical (as the character, Jhore, in the story "Bajun and Jhore"). In later parts, the stories will focus on other subjects, including spirits, animals, and legends from this culture.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This is an intriguing collection of folklore from the Santal Parganas, a district in India located about 150 miles from Calcutta. As its preface implies, this collection is intended to give an unadulterated view of a culture through its folklore. It contains a variety of stories about different aspects of life, including family and marriage, religion, and work. In this first volume, taken from Part I, each story is centered around a particular human character. These range from the charmingly clever (as the character, The Oilman, in the story, "The Oilman and His Sons"), to the tragically comical (as the character, Jhore, in the story "Bajun and Jhore"). In later parts, the stories will focus on other subjects, including spirits, animals, and legends from this culture.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_01_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_01_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Bajun and Jhore]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_02_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:50]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_02_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Anuwa and His Mother]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_03_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_03_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ledha and the Leopard]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_04_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:12]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_04_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Cruel Stepmother, The]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_05_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:17]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_05_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Karmu and Dharmu]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_06_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:25]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_06_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Jealous Stepmother]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_07_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:56]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_07_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Pious Woman]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_08_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_08_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wise Daughter-in-Law]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_09_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:15]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_09_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Oilman and His Sons]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_10_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:12]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_10_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Girl Who Found Helpers]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_11_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:46]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_11_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How to Grow Rich]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_12_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_12_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Changed Calf]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_13_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:44]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_13_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Koeri and the Barber]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_14_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:30]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_14_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Prince Who Acquired Wisdom]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_15_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:03]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_15_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Monkey Boy]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_16_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_16_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Miser's Servant]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_17_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:26]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_17_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kuwar and the Rajahs Daughter]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_18_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_18_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Laughing Fish]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_19_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:05]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_19_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Cowherd Found a Bride]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_20_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:21]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_20_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kara and Guja]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_21_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:22]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_21_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Magic Cow]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_22_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:17]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_22_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Lita and His Animals]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_23_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:42]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_23_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy Who Found His Father]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_24_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_24_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Oilman's Bullock]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/folklore-of-the-santal-parganas-by-cecil-henry-bompas/]]></link>
+            <enclosure url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_25_bompas_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:10]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/folklore_santal_parganas_0805_librivox/folklore_santal_parganas_25_bompas_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

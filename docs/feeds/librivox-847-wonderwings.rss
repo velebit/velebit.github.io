@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Wonderwings and other Fairy Stories by Edith Howes (1872 - 1954)]]></title>
+  <link><![CDATA[https://librivox.org/wonderwings-and-other-fairy-stories-by-edith-howes/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/847" />
+  <description><![CDATA[A collection of three short stories about fairies, complete with good moral lessons (as every fairy tale should be). (Summary by Claire Goget)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[A collection of three short stories about fairies, complete with good moral lessons (as every fairy tale should be). (Summary by Claire Goget)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt9/Wonderwings_Other_Fairy_Stories_1107.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt9/Wonderwings_Other_Fairy_Stories_1107.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Wonderwings]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/wonderwings-and-other-fairy-stories-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderwings_librivox/wonderwings_1_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:31]]></itunes:duration>
+  <pubDate>Sun, 11 Feb 2007 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderwings_librivox/wonderwings_1_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Magic Mirror]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/wonderwings-and-other-fairy-stories-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderwings_librivox/wonderwings_2_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:05]]></itunes:duration>
+  <pubDate>Sun, 11 Feb 2007 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderwings_librivox/wonderwings_2_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fairy Tenderheart]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/wonderwings-and-other-fairy-stories-by-edith-howes/]]></link>
+            <enclosure url="https://www.archive.org/download/wonderwings_librivox/wonderwings_3_howes_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:13]]></itunes:duration>
+  <pubDate>Sun, 11 Feb 2007 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/wonderwings_librivox/wonderwings_3_howes_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

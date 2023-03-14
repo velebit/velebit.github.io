@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ../docs/feeds || exit 1
+ls *.rss | sed -e 's,^,https://velebit.github.io/feeds/,' > list.txt

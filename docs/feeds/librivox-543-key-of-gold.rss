@@ -1,0 +1,317 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Key of Gold: 23 Czech Folk Tales, The by  Joseph Baudis (1883 - )]]></title>
+  <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/543" />
+  <description><![CDATA[Not your common fairy tales, this collection is a mixture of morals, quirkiness, and sarcasm. In it one finds ironic derivatives (if not roots) of well known fairy tales such as “The Brave Little Taylor” and “Beauty and the Beast,” as well as some more unusual settings to impart the popular fairy tale themes of justice and happily ever after. Most stories are told with wry humor and often shocking irreverence for the expected fairy tale turn out. This is NOT a book for children, but one for adults who love fairy tales, and enjoy making fun of them.DISCLAIMER: Story 09 contains some racially offensive material in its ending. Due to the LibriVox mission of reading, rather than rewriting, literature in the public domain, it has not been omitted from this anthology.
+
+(Summary by MariaSC)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Not your common fairy tales, this collection is a mixture of morals, quirkiness, and sarcasm. In it one finds ironic derivatives (if not roots) of well known fairy tales such as “The Brave Little Taylor” and “Beauty and the Beast,” as well as some more unusual settings to impart the popular fairy tale themes of justice and happily ever after. Most stories are told with wry humor and often shocking irreverence for the expected fairy tale turn out. This is NOT a book for children, but one for adults who love fairy tales, and enjoy making fun of them.DISCLAIMER: Story 09 contains some racially offensive material in its ending. Due to the LibriVox mission of reading, rather than rewriting, literature in the public domain, it has not been omitted from this anthology.
+
+(Summary by MariaSC)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/key_of_gold_librivox/Key_Gold_23_Czech_Folk_Tales_1105.jpg</url></image>
+  <itunes:image href="https://archive.org/download/key_of_gold_librivox/Key_Gold_23_Czech_Folk_Tales_1105.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_00_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:13]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_00_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Twelve Months]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_01_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:35]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_01_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[VÍTAZKO]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_02_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:23]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_02_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Boots, Cloak, and Ring]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_03_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:56]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_03_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Silly Jura]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_04_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:02]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_04_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sleepy John ]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_05_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:04]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_05_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Three Doves ]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_06_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:26]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_06_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bear, the Eagle, and the Fish ]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_07_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:31]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_07_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kojata]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_08_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:38]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_08_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Shepherd Hynek]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_09_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:01]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_09_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Three Roses]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_10_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:15]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_10_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Enchanted Princess]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_11_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:42]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_11_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Twin Brothers]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_12_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:26]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_12_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Waternick]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_13_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:19]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_13_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Man Who Met Misery]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_14_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:57]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_14_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Nine at a Blow ]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_15_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:35]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_15_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Clever Lass]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_16_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:48]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_16_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Soldier and the Devil ]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_17_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:24]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_17_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Old Nick and Kitty]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_18_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:31]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_18_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Knight Bambus]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_19_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:12]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_19_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Francis and Martin]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_20_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:11]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_20_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Witches at the Cross]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_21_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:27]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_21_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Witch and the Horseshoes ]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_22_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:53]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_22_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Haunted Mill ]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/the-key-of-gold-23-czech-folk-tales-translated-by-joseph-baudis/]]></link>
+            <enclosure url="https://www.archive.org/download/key_of_gold_librivox/key_gold_23_baudis_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:38]]></itunes:duration>
+  <pubDate>Sat, 12 Aug 2006 00:23:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/key_of_gold_librivox/key_gold_23_baudis_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,338 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Blackfeet Indian Stories by  George Bird Grinnell (1849 - 1938)]]></title>
+  <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/1948" />
+  <description><![CDATA[The Blackfeet were hunters, travelling from place to place on foot. They used implements of stone, wood, or bone, wore clothing made of skins, and lived in tents covered by hides. Dogs, their only tame animals, were used as beasts of burden to carry small packs and drag light loads. 
+
+The stories here told come down to us from very ancient times. Grandfathers have told them to their grandchildren, and these again to their grandchildren, and so from mouth to mouth, through many generations, they have reached our time.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[The Blackfeet were hunters, travelling from place to place on foot. They used implements of stone, wood, or bone, wore clothing made of skins, and lived in tents covered by hides. Dogs, their only tame animals, were used as beasts of burden to carry small packs and drag light loads. 
+
+The stories here told come down to us from very ancient times. Grandfathers have told them to their grandchildren, and these again to their grandchildren, and so from mouth to mouth, through many generations, they have reached our time.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[00 - Introduction]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_00_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:01:09]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_00_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[01 - Two Fast Runners]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_01_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:04]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_01_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[02 - The Wolf Man]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_02_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:05]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_02_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[03 - Kŭt-O-Yĭs´, The Blood Boy]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_03_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:25:58]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_03_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[04 - The Dog And The Root Digger]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_04_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_04_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[05 - The Camp Of The Ghosts]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_05_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_05_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[06 - The Buffalo Stone]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_06_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_06_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[07 - How The Thunder Pipe Came]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_07_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_07_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[08 - Cold Maker's Medicine]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_08_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:36]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_08_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[09 - The All Comrades Societies: The Bull Society]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_09_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:44]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_09_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[10 - The All Comrades Societies: The Other Society]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_10_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:58]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_10_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[11 - The First Medicine Lodge]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_11_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:45]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_11_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[12 - The Buffalo-Painted Lodges]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_12_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:06]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_12_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[13 - Mika`pi- Red Old Man]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_13_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_13_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[14 - Red Robe's Dream]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_14_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:12]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_14_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[15 - The Blackfeet Creation]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_15_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:34]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_15_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[16 - Old Man Stories: The Wonderful Bird]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_16_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_16_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[17 - Old Man Stories: The Rabbits' Medicine]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_17_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:31]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_17_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[18 - Old Man Stories: The Lost Elk Meat]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_18_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:06]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_18_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[19 - Old Man Stories: The Rolling Rock]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_19_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:31]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_19_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[20 - Old Man Stories: Bear and Bullberries]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_20_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:12]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_20_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[21 - Old Man Stories: The Theft from the Sun]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_21_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_21_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[22 - Old Man Stories: The Smart Woman Chief]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_22_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:25]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_22_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[23 - Old Man Stories: Bobcat and Birch Tree]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_23_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:44]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_23_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[24 - Old Man Stories: The Red-Eyed Duck]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_24_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:30]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_24_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[25 - The Ancient Blackfeet]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/blackfeet-indian-stories-by-george-b-grinnell/]]></link>
+            <enclosure url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_25_grinnell_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:21]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/blackfeet_indian_stories_0805_librivox/blackfeetindianstories_25_grinnell_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

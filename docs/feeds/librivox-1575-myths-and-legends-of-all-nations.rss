@@ -1,0 +1,349 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends of All Nations by Logan Marshall (1884 - 1937)]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/1575" />
+  <description><![CDATA[This excellent book contains many great stories from the various mythologies of man throughout the ages.]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This excellent book contains many great stories from the various mythologies of man throughout the ages.]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt/Myths_and_Legends_of_all_Nations_1002.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt/Myths_and_Legends_of_all_Nations_1002.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_00_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:02:27]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_00_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prometheus the Friend of Man]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_01_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:53]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_01_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Labors of Hercules]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_02_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:43]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_02_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Deucalion and Pyrrha]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_03_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:52]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_03_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Theseus and the Centaur]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_04_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:19]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_04_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Niobe]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_05_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:53]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_05_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Gorgon's Head]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_06_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:56:41]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_06_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Fleece, part 1]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_07-1_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:32]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/myths_legends_0805_librivox/mythsandlegends_07-1_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Fleece, part 2 ]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_07-2_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:08:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_07-2_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cyclops]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_08_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:38:25]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:09:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_08_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Œdipus and the Sphinx]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_09_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:12]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:10:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_09_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Antigone, a Faithful Daughter and Sister]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_10_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:52]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:11:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_10_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Iphigenia]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_11_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:05]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:12:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_11_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sack of Troy]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_12_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:51:08]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:13:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_12_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Beowulf and Grendel]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_13_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:26:37]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:14:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_13_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Good King Arthur: narrative and The Coming of Arthur]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_14-1_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:53]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:15:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_14-1_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Good King Arthur: The Passing of Arthur ]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_14-2_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:16:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_14-2_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Great Knight Siegfried]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_15_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:41]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:17:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_15_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Lohengrin and Elsa the Beautiful]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_16_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:10]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:18:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_16_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Frithiof the Bold]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_17_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:34]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:19:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_17_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Wayland the Smith]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_18_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:12]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:20:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_18_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Twardowski, the Polish Faust]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_19_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:41]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:21:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_19_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ilia Muromec of Russia]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_20_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:53]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:22:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_20_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kralewitz Marko of Servia]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_21_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:32]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:23:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_21_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Decision of Libuscha]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_22_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:04:17]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:24:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_22_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Count Roland of France]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_23_marshal_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:05]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:25:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_23_marshal_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cid]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-of-all-nations/]]></link>
+            <enclosure url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_24_marshall_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:26]]></itunes:duration>
+  <pubDate>Tue, 27 May 2008 00:26:00 +0000</pubDate>
+  <media:content url="https://archive.org/download/myths_legends_0805_librivox/mythsandlegends_24_marshall_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

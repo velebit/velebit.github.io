@@ -1,0 +1,234 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Stories of Siegfried, Told to the Children by Mary Esther Miller MacGregor (1876 - 1961)]]></title>
+  <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/15299" />
+  <description><![CDATA[Dear Denis,—Here is a story that I found in an old German poem called the Nibelungenlied. The poem is full of strange adventure, adventure of both tiny dwarf and stalwart mortal.
+
+Some of these adventures will fill this little book, and already I can see you sitting in the nursery as you read them.
+
+The door is opened but you do not look up. 'Denis! Denis!' You are called, but you do not hear, for you are not really in the nursery any longer.
+
+You have wandered away to Nibelheim, the home of the strange little people of whom you are reading, and you have ears only for the harsh voices of the tiny Nibelungs, eyes only for their odd, wrinkled faces.
+
+Siegfried is the merry hero of the Nibelungenlied. I wonder will you think him as brave as French Roland or as chivalrous as your English favourite, Guy of Warwick? Yet even should you think the German hero brave and chivalrous as these, I can hardly believe you will read and re-read this little book as often as you read and re-read the volumes which told you about your French and English heroes.—Yours affectionately,
+
+MARY MACGREGOR  (summary from the text)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Dear Denis,—Here is a story that I found in an old German poem called the Nibelungenlied. The poem is full of strange adventure, adventure of both tiny dwarf and stalwart mortal.
+
+Some of these adventures will fill this little book, and already I can see you sitting in the nursery as you read them.
+
+The door is opened but you do not look up. 'Denis! Denis!' You are called, but you do not hear, for you are not really in the nursery any longer.
+
+You have wandered away to Nibelheim, the home of the strange little people of whom you are reading, and you have ears only for the harsh voices of the tiny Nibelungs, eyes only for their odd, wrinkled faces.
+
+Siegfried is the merry hero of the Nibelungenlied. I wonder will you think him as brave as French Roland or as chivalrous as your English favourite, Guy of Warwick? Yet even should you think the German hero brave and chivalrous as these, I can hardly believe you will read and re-read this little book as often as you read and re-read the volumes which told you about your French and English heroes.—Yours affectionately,
+
+MARY MACGREGOR  (summary from the text)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[To Denis]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_00_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_00_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mimer the Blacksmith]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_01_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_01_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried wins the Treasure]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_02_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_02_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried comes home]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_03_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_03_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Kriemhild's Dream]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_04_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_04_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried journeys to Worms]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_05_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_05_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried's Welcome to Worms]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_06_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_06_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried's Sojourn at Worms]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_07_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_07_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried sees Kriemhild]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_08_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_08_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried goes to Isenland]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_09_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_09_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried subdues Brunhild]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_10_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_10_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried goes to the Cave]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_11_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_11_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wedding Feast]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_12_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_12_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried goes home with Kriemhild]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_13_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_13_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried and Kriemhild go to Worms]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_14_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_14_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Siegfried is slain]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/stories-of-siegfried-told-to-the-children-by-mary-esther-miller-macgregor/]]></link>
+            <enclosure url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_15_macgregor_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/storiesofsiegfried_2208_librivox/storiesofsiegfried_15_macgregor_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

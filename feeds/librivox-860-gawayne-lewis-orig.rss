@@ -1,0 +1,70 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Gawayne and the Green Knight (Lewis Translation) by The Gawain Poet]]></title>
+  <link><![CDATA[https://librivox.org/gawayne-and-the-green-knight-by-charlton-miner-lewis/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/860" />
+  <description><![CDATA[Charlton Miner Lewis' version of Gawayne and the Green Knight, a late 14th century alliterative romance, is written in modern language telling the story of the Green Knight's challenge to Gawayne, and the romance between Sir Gawayne and Lady Elfinheart. The name Gawayne is often also spelled Gawain. (Summary by Betsie Bush)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Charlton Miner Lewis' version of Gawayne and the Green Knight, a late 14th century alliterative romance, is written in modern language telling the story of the Green Knight's challenge to Gawayne, and the romance between Sir Gawayne and Lady Elfinheart. The name Gawayne is often also spelled Gawain. (Summary by Betsie Bush)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Canto I - The Green Knight]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gawayne-and-the-green-knight-by-charlton-miner-lewis/]]></link>
+            <enclosure url="https://www.archive.org/download/gawayne_green_knight_librivox/gawayne_green_knight_01_lewis_blb_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:07]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/gawayne_green_knight_librivox/gawayne_green_knight_01_lewis_blb_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Canto II - Elfinhart]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gawayne-and-the-green-knight-by-charlton-miner-lewis/]]></link>
+            <enclosure url="https://www.archive.org/download/gawayne_green_knight_librivox/gawayne_green_knight_02_lewis_blb_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:24]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/gawayne_green_knight_librivox/gawayne_green_knight_02_lewis_blb_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Canto III - Gawayne]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gawayne-and-the-green-knight-by-charlton-miner-lewis/]]></link>
+            <enclosure url="https://www.archive.org/download/gawayne_green_knight_librivox/gawayne_green_knight_03_lewis_blb_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:30]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/gawayne_green_knight_librivox/gawayne_green_knight_03_lewis_blb_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Canto IV - Conclusion]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/gawayne-and-the-green-knight-by-charlton-miner-lewis/]]></link>
+            <enclosure url="https://www.archive.org/download/gawayne_green_knight_librivox/gawayne_green_knight_04_lewis_blb_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:03]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/gawayne_green_knight_librivox/gawayne_green_knight_04_lewis_blb_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

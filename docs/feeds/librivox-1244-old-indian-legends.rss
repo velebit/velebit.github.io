@@ -1,0 +1,193 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Old Indian Legends by Zitkala-Sa (1876 - 1938)]]></title>
+  <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/1244" />
+  <description><![CDATA[Fourteen Old Indian Legends by Native American (Dakota) Author Zitkala-sa. These Legends feature the exploits of Iktomi the Native American Trickster god. (summary by Robert Scott)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[Fourteen Old Indian Legends by Native American (Dakota) Author Zitkala-sa. These Legends feature the exploits of Iktomi the Native American Trickster god. (summary by Robert Scott)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/LibrivoxCdCoverArt12/Old_Indian_Legends_1110.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/LibrivoxCdCoverArt12/Old_Indian_Legends_1110.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[IKTOMI AND THE DUCKS]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_01_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:28]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_01_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IKTOMI'S BLANKET]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_02_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:38]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_02_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IKTOMI AND THE MUSKRAT]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_03_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:06]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_03_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IKTOMI AND THE COYOTE]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_04_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:12]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_04_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IKTOMI AND THE FAWN]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_05_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:46]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_05_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE BADGER AND THE BEAR]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_06_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:13]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_06_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE TREE-BOUND]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_07_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:08]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_07_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[SHOOTING OF THE RED EAGLE]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_08_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:34]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_08_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IKTOMI AND THE TURTLE]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_09_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:49]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_09_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[DANCE IN A BUFFALO SKULL]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_10_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:43]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_10_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE TOAD AND THE BOY]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_11_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:50]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_11_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[IYA, THE CAMP-EATER]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_12_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:32]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_12_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[MANSTIN, THE RABBIT]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_13_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:02]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_13_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[THE WARLIKE SEVEN]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/old-indian-legends-by-zitkala-sa/]]></link>
+            <enclosure url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_14_zitkala-sa_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:32]]></itunes:duration>
+  <pubDate>Sat, 11 Aug 2007 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/old_indian_legend_rs_librivox/oldindianlegends_14_zitkala-sa_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

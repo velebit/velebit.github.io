@@ -1,0 +1,301 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Japanese Fairy Tales by Yei Theodora Ozaki (1871 - 1932)]]></title>
+  <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/1139" />
+  <description><![CDATA[First published in 1908, this is a book of "beautiful legends and fairy tales of Japan" that were collected, translated and retold by the author, Yei Theodora Ozaki, who states: "...in telling them I have also found that they were still unknown to the vast majority, and this has encouraged me to write them for the children of the West." In part, the project was the result of a suggestion made by her friend Andrew Lang, another collector of fairy stories, who printed his stories in the many Colored Fairy Books. (Summary by not.a.moose)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[First published in 1908, this is a book of "beautiful legends and fairy tales of Japan" that were collected, translated and retold by the author, Yei Theodora Ozaki, who states: "...in telling them I have also found that they were still unknown to the vast majority, and this has encouraged me to write them for the children of the West." In part, the project was the result of a suggestion made by her friend Andrew Lang, another collector of fairy stories, who printed his stories in the many Colored Fairy Books. (Summary by not.a.moose)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://www.archive.org/download/librivox_cd_covers/japanese_fairy_tales.jpg</url></image>
+  <itunes:image href="https://www.archive.org/download/librivox_cd_covers/japanese_fairy_tales.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_00_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:15]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_00_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[My Lord Bag of Rice]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_01_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:00]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_01_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Tongue-Cut Sparrow]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_02_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:08]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_02_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Urashima Taro, The Fisher Lad]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_03_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:51]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_03_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Farmer and the Badger]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_04_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:57]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_04_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The "Shinansha," or The South Pointing Carriage]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_05_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:00]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_05_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Adventures of Kintaro, The Golden Boy]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_06_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:53]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_06_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Princess Hase]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_07_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:44]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_07_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Man Who Did Not Wish to Die]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_08_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:17:25]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_08_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bamboo-Cutter and the Moon-Child]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_09_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:36:26]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_09_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mirror of Matsuyama]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_10_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:48]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_10_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Goblin of Adachigahara]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_11_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:52]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_11_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sagacious Monkey and the Boar ]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_12_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:56]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:12:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_12_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Happy Hunter and the Skillful Fisher]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_13_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:03]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:13:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_13_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of the Old Man Who Made Withered Trees to Flower]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_14_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:01]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:14:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_14_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Jelly Fish and the Monkey]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_15_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:16]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:15:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_15_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Quarrel of the Monkey and the Crab]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_16_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:01]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:16:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_16_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The White Hare and the Crocodiles ]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_17_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:22]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:17:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_17_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Prince Yamato Take]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_18_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:36]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:18:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_18_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Momotaro, or The Story of the Son of a Peach]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_19_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:49]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:19:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_19_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ogre of Rashomon]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_20_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:05]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:20:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_20_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How an Old Man Lost his Wen]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_21_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:28]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:21:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_21_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stones of Five Colors and The Empress Jokwa ]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/japanese-fairy-tales-by-yei-theodora-ozaki/]]></link>
+            <enclosure url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_22_ozaki_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:47]]></itunes:duration>
+  <pubDate>Sun, 03 Aug 2008 00:22:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/jap_fairytales_0808_librivox/japanesefairytales_22_ozaki_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>
