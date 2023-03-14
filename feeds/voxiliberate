@@ -1,0 +1,120 @@
+#!/usr/bin/python3
+
+import argparse
+import bs4
+import datetime as dt
+import dateutil.parser as dp
+#import feedgen.util as fu
+import locale
+import re
+import requests
+import sys
+import sys
+#import time as tm
+
+def format_rfc2822(date_time):
+    old_locale = locale.setlocale(locale.LC_ALL)
+    locale.setlocale(locale.LC_ALL, 'C')
+    rfc2822_date = date_time.strftime('%a, %d %b %Y %H:%M:%S %z')
+    locale.setlocale(locale.LC_ALL, old_locale)
+    return rfc2822_date
+
+def canonical_datetime(date):
+    try:
+        parsed = dp.parse(date + " 00:00 +0000")
+    except:
+        parsed = dp.parse(date)
+    return dt.datetime.fromtimestamp(parsed.timestamp(), tz=dt.timezone.utc)
+
+def get_audio_book_title(node):
+    return node.find(class_='main-content').h1.get_text(strip=True)
+
+def get_link_url(node, link_text):
+    return node.find('a', href=True, string=link_text)['href']
+
+def get_catalog_date(node):
+    date_node = node.find(string='Catalog date:').parent
+    while date_node.name != 'dd':
+        date_node = date_node.next_sibling
+    return date_node.text
+
+def process_url(page_url, *, settings):
+    page_response = requests.get(page_url)
+    page_response.raise_for_status()
+    page_html = bs4.BeautifulSoup(page_response.content, features="lxml")
+    title = get_audio_book_title(page_html)
+    if settings.name is not None:
+        name = settings.name
+    else:
+        name = re.sub(r'\W+', '-', title.lower())  # used in filenames etc.
+    rss_url = get_link_url(page_html, 'RSS')
+    lvid = re.sub(r'\D+', '', re.sub(r'^.*/', '', rss_url))
+    image_url = get_link_url(page_html, 'Download cover art')
+    cat_date = canonical_datetime(get_catalog_date(page_html))
+    if settings.id_last:
+        file_base = f"librivox-{name}-{lvid}"
+    else:
+        file_base = f"librivox-{lvid}-{name}"
+    file_orig = f"{file_base}-orig.rss"
+    file_done = f"../docs/feeds/{file_base}.rss"
+
+    rss_response = requests.get(rss_url)
+    rss_response.raise_for_status()
+    rss_content = rss_response.content
+    with open(file_orig, 'wb') as f:
+        f.write(rss_content)
+        print(f"Wrote {file_orig}", file=sys.stderr)
+
+    next_date = cat_date
+    def make_next_date_bytes(match):
+        nonlocal next_date
+        fdate = format_rfc2822(next_date)
+        next_date += dt.timedelta(minutes=+1)
+        return b'<pubDate>' + bytes(fdate, 'utf-8') + b'</pubDate>'
+    rss_content = re.sub(rb'(?:<!--)?<pubDate>[^<>]*</pubDate>(?:-->)?',
+                         make_next_date_bytes, rss_content)
+
+    if m := re.search(rb'^(\s*)<!-- file loop -->', rss_content, flags=re.M):
+        prefix = m.group(1)
+        frag_xml = bs4.BeautifulSoup(features="xml")
+        tag_image = frag_xml.new_tag("image")
+        tag_image.append(frag_xml.new_tag("url"))
+        tag_image.url.string = image_url
+        tag_iimage = frag_xml.new_tag("itunes:image", href=image_url)
+        tag_iexpl = frag_xml.new_tag("itunes:explicit")
+        tag_iexpl.string = "no"
+        rss_content = re.sub(rb'^(?=\s*<!-- file loop -->)',
+                             b"".join([prefix + x.encode('utf-8') + b'\n'
+                                       for x in (tag_image, tag_iimage,
+                                                 tag_iexpl)]),
+                             rss_content, flags=re.M)
+    else:
+        rss_xml = bs4.BeautifulSoup(rss_content, features="xml")
+        tag_image = rss_xml.new_tag("image")
+        tag_image.append(rss_xml.new_tag("url"))
+        tag_image.url.string = image_url
+        tag_iimage = rss_xml.new_tag("itunes:image", href=image_url)
+        tag_iexpl = rss_xml.new_tag("itunes:explicit")
+        tag_iexpl.string = "no"
+        rss_xml.item.insert_before(tag_image, tag_iimage, tag_iexpl)
+        rss_content = rss_xml.encode('utf-8')
+    with open(file_done, 'wb') as f:
+        f.write(rss_content)
+        print(f"Wrote {file_done}", file=sys.stderr)
+
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-v', '--verbose', action='count', default=0)
+    parser.add_argument('--name', action='store')
+    parser.add_argument('--id-last', action='store_true')
+    parser.add_argument('urls', metavar='LIBRIVOX_URL', nargs='+')
+    settings = parser.parse_args()
+    return settings
+
+def main():
+    settings = parse_args()
+    for url in settings.urls:
+        process_url(url, settings=settings)
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends Around the World - Collection 09 by Various]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/16581" />
+  <description><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/mlaw09_2106_librivox/mythsandlegends009_2106.jpg</url></image>
+  <itunes:image href="https://archive.org/download/mlaw09_2106_librivox/mythsandlegends009_2106.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Invisible Kingdom - German]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_01_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_01_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Princess Crystal, or the Hidden Treasure - English]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_02_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_02_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Squire's Bride - Norwegian]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_03_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_03_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Panch Mar Khan - Himalayan]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_04_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_04_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Boots, Who Made the Princess Say, "That's a Story" - Norse]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_05_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_05_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Gods of Olympus: Zeus - Greek]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_06_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_06_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Castle of Anoush - Armenian]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_07_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_07_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Stolen Treasure - Burmese]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_08_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_08_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Fable - Burmese]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_09_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_09_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Thor Lost His Hammer - Norse]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_10_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_10_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Bird of Paradise - Germanic]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_11_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_11_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fight with the Firbolgs - Irish]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-09/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_12_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 20 Jun 2021 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw09_2106_librivox/mlaw009_12_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

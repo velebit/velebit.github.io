@@ -1,0 +1,166 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends Around the World - Collection 08 by Various]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/16277" />
+  <description><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Sunken City - Germanic]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_01_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_01_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Meeting of the Star Lovers - Japanese]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_02_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_02_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Plants of Water Nymphs and Fays - Many Cultures]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_03_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_03_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Ivan Tsarevich, The Fire-Bird, and the Gray Wolf - Russian]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_04_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_04_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Barn Elves - English]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_05_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_05_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Beth Gellert - Celtic]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_06_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_06_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dinewan the Emu, and Goomblegubbon the Bustard - Australian]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_07_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_07_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Hyacinthus - Greek]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_08_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_08_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Sun Goddess Was Enticed Out of Her Cave - Japanese]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_09_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_09_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Olaf's Farm - Viking]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_10_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_10_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Echo and Narcissus - Greek]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_11_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_11_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Woman, The Man, and The Nāt - Burmese]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-08/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_12_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/mlaw008_2105_librivox/mlaw008_12_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[American Indian Fairy Tales by  William Trowbridge Larned (c. 1867 - 1928) and Henry R. Schoolcraft (1793 - 1864)]]></title>
+  <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/142" />
+  <description><![CDATA[With no written language, Native Americans living in the Lake Superior region passed their cultural identity down through the generations by way of stories. Far more than mere tales to amuse children, they passed along the collective wisdom of the tribes. In the 1830s, government Indian Agent and ethnologist Henry R Schoolcraft learned the language of these people and went out to collect and preserve their stories before the tribes disappeared under the westward rush of American civilization. Though these stories were recast as children’s fairy tales in the 1920s, they contain much of the old wisdom of a culture which has largely disappeared. (Summary by Chip)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[With no written language, Native Americans living in the Lake Superior region passed their cultural identity down through the generations by way of stories. Far more than mere tales to amuse children, they passed along the collective wisdom of the tribes. In the 1830s, government Indian Agent and ethnologist Henry R Schoolcraft learned the language of these people and went out to collect and preserve their stories before the tribes disappeared under the westward rush of American civilization. Though these stories were recast as children’s fairy tales in the 1920s, they contain much of the old wisdom of a culture which has largely disappeared. (Summary by Chip)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Iagoo, The Story-Teller]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_01_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:05:00]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_01_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Shin-ge-bis Fools The North Wind]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_02_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:20]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_02_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Boy And Girl In The Clouds]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_03_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:52]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_03_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Child Of The Evening Star]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_04_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:27]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_04_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Boy Who Snared The Sun]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_05_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:48]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_05_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How The Summer Came]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_06_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_06_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Grasshopper]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_07_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:29]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_07_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mish-o-sha, The Magician]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_08_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:24]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_08_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fairy Bride]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/]]></link>
+            <enclosure url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_09_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:47]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="https://www.archive.org/download/american_indian_tales_librivox/american_indian_fairy_tales_09_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

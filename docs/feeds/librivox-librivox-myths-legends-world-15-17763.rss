@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends Around the World - Collection 15 by Various]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/17763" />
+  <description><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/mlaw015_2205_librivox/mlaw15_2005.jpg</url></image>
+  <itunes:image href="https://archive.org/download/mlaw015_2205_librivox/mlaw15_2005.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Brahmin Girl Who Married a Tiger - Southern India]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_01_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_01_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Blue Belt - Norwegian]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_02_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_02_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Cock's Kraal - Swazi]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_03_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_03_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Babouscka - Russian]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_04_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_04_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How an Ikum Woman Abandoned One of Her Twins in the Forest, and How it was Saved by the Hawk - Nigerian]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_05_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_05_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Monkey and the Turtle - Philippine]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_06_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_06_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Hawk and the Hen - Philippine]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_07_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_07_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Vigil of Mah May - Burmese]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_08_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_08_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Deer Lake - North American Vancouver]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_09_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_09_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Planting a Pear Tree - Chinese]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_10_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_10_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How Two Friends Fell Out: The Spider and the Grasshopper - Nigerian]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_11_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_11_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Jupiter and His Mighty Company - Greek]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-15/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_12_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sun, 22 May 2022 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw015_2205_librivox/mlaw015_12_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

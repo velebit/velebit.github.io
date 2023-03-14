@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends Around the World - Collection 05 by Various]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/15856" />
+  <description><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/mlaw005_2012_librivox/mythsandlegends5_2012.jpg</url></image>
+  <itunes:image href="https://archive.org/download/mlaw005_2012_librivox/mythsandlegends5_2012.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The Apples of Idun - Norse]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_01_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_01_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Baba Yaga - Russian]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_02_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_02_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Boyislav, Youngest of Twelve - Czech]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_03_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_03_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Legend of the Calle de la Quemada - Mexican]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_04_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_04_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Fairy Frog - Swazi]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_05_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_05_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Ghost of Wahuala Temple - Hawaiian]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_06_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_06_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Little Match Girl - Danish]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_07_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_07_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Mirror of Matsuyama - Japanese]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_08_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_08_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Bridegroom for Miss Mole - Korean]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_09_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_09_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Prometheus and Pandora - Greek]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_10_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_10_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Why the Whale Spouts, the Starfish is Ragged, and the Native Bear has Strong Arms - Australian Aboriginal]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_11_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_11_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Yuki-Onna - Japanese]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-collection-05/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_12_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Sat, 19 Dec 2020 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw005_2012_librivox/mlaw005_12_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

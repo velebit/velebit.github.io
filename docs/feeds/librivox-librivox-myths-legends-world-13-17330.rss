@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends Around the World - Collection 13 by Various]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/17330" />
+  <description><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/mlaw13_2201_librivox/mlaw13_2201.jpg</url></image>
+  <itunes:image href="https://archive.org/download/mlaw13_2201_librivox/mlaw13_2201.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[A Lac of Rupees for a Piece of Advice - Indian (Hindu)]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_01_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_01_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tricks of the Fox - Koryak (Native American, Alaska region)]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_02_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_02_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Fox-Fire - Chinese]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_03_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_03_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Story of Princess Hase - Japanese]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_04_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_04_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[How the Wicked Sons Were Duped - Indian]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_05_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_05_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Setuli, Or the King of the Birds - Swazi]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_06_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_06_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Arabian Society In The Middle Ages - Chapter 1: Religion - Arabic]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_07_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_07_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Giant of St. Michael's Mount - British]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_08_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_08_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The wanderings of Freya - Scandinavian]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_09_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_09_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Frey - Scandinavian]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_10_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_10_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Crystal Palace - Germanic]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_11_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_11_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sunken City - Germanic]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-13/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_12_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Wed, 19 Jan 2022 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw13_2201_librivox/mlaw013_12_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

@@ -1,0 +1,169 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[Myths and Legends Around the World - Collection 12 by Various]]></title>
+  <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/17177" />
+  <description><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[This collection is dedicated to recordings of short mythical or legendary works which are in the Public Domain. The stories tell of legends, heroes, myths, and ancient lore from many different cultures. (Summary by Lynette Caulkins)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <image><url>https://archive.org/download/mlaw12_2111_librivox/MLAW012_2111.jpg</url></image>
+  <itunes:image href="https://archive.org/download/mlaw12_2111_librivox/MLAW012_2111.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[The White Hare and the Crocodiles - Japanese]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_01_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_01_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Master and Pupil (or The Devil Outwitted) - Georgian]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_02_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:01:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_02_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Thor Fighting the Serpent - Norse]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_03_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:02:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_03_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Golden Age - Greek]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_04_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:03:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_04_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Farmer and the Moneylender - Indian]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_05_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:04:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_05_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sun, Moon, and Wind Go Out to Dinner - Indian]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_06_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:05:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_06_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Beira, Queen of Winter - Scottish]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_07_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:06:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_07_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Lord, St. Peter, and the Apostles - Italian]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_08_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:07:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_08_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Horned Toad and Giants - North American]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_09_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:08:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_09_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Raven Myth - Native American, Eskimo]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_10_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:09:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_10_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Raven's Marriage - Native American, Eskimo]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_11_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:10:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_11_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Sir Gawayne and the Green Knight, Book 1 - Old English]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/myths-and-legends-around-the-world-12/]]></link>
+            <enclosure url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_12_various_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[]]></itunes:duration>
+  <pubDate>Mon, 22 Nov 2021 00:11:00 +0000</pubDate>
+  <media:content url="https://www.archive.org/download/mlaw12_2111_librivox/mlaw12_12_various_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>
